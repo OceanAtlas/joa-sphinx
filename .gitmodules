@@ -1,0 +1,4 @@
+[submodule "docs/_include/dpo"]
+	path = docs/_include/dpo
+	url = https://github.com/cchdo/dpo.git
+	branch = gh-pages
