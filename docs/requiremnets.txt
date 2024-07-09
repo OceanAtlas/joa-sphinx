@@ -1,0 +1,4 @@
+# Rely on the theme to hopefully specify its sphinx version
+pydata-sphinx-theme
+myst-parser
+sphinx_design
