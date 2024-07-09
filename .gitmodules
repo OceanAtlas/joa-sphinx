@@ -2,3 +2,6 @@
 	path = docs/_include/dpo
 	url = https://github.com/cchdo/dpo.git
 	branch = gh-pages
+[submodule "docs/_include/outreach/virtualcruise"]
+	path = docs/_include/outreach/virtualcruise
+	url = https://github.com/cchdo/virtual-cruise.git
