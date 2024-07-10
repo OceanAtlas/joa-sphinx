@@ -8,7 +8,7 @@ With John "Oz" Osborne he created this suite of ocean data exploration tools and
 
 ## About Java OceanAtlas
 Java OceanAtlas was developed by scientific programmer John "Oz" Osborne (OceanAtlas Software, Vashon, WA, USA), with assistance from data scientist Maria Osborne working with Dr. James Swift.
-Read about the Background of Java OceanAtlas.
+[Read about the Background of Java OceanAtlas](background_of_java_oceanatlas).
 
 ```{toctree}
 :caption: About Us
