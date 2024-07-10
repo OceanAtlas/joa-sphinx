@@ -18,6 +18,7 @@ extensions = ["myst_parser", "sphinx_design"]
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
+myst_enable_extensions = ["attrs_inline"]
 
 
 # -- Options for HTML output -------------------------------------------------

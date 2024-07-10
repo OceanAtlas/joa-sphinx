@@ -40,6 +40,8 @@ The collection 'Other Data Files' contains ≈2200 vertical sections from the or
 ---
 hidden:
 ---
+
+Home <self>
 ```
 
 ```{toctree}
@@ -56,4 +58,20 @@ hidden:
 ---
 
 Data <data/index>
+```
+
+```{toctree}
+---
+hidden:
+---
+
+Outreach <outreach/index>
+```
+
+```{toctree}
+---
+hidden:
+---
+
+About Us <about/index>
 ```
