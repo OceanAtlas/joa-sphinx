@@ -3,5 +3,5 @@
 ```{toctree}
 :caption: Data Sets
 
-reid
+reid/index
 ```
