@@ -4,6 +4,7 @@ from itertools import groupby
 
 root_dir = Path(__file__).parent
 
+
 sep = "\n\n---\n\n"
 def file_record(line):
    return "\n".join([
@@ -31,13 +32,15 @@ def grouped_writer(group_name, root, files):
         by_group_data.append(sep.join(file_record(file) for file in files))
     group_out.write_text("\n".join(by_group_data))
 
+reid_root_dir = root_dir / "reid"
+
 with open("_reid_raw_data.csv", encoding="latin1") as f:
     reader = csv.DictReader(f)
     data = list(reader)
 
 # Atlantic
 atlantic_data = list(filter(lambda x: x["basin_name"] == "Atlantic", data))
-atlantic_root = root_dir / "Atlantic" / "_includes"
+atlantic_root = reid_root_dir / "Atlantic" / "_includes"
 atlantic_root.mkdir(parents=True, exist_ok=True)
 
 atlantic_entire = atlantic_root / "_entire"
@@ -49,7 +52,7 @@ grouped_writer("year", atlantic_root, atlantic_data)
 
 # Indian
 indian_data = list(filter(lambda x: x["basin_name"] == "Indian", data))
-indian_root = root_dir / "Indian" / "_includes"
+indian_root = reid_root_dir / "Indian" / "_includes"
 indian_root.mkdir(parents=True, exist_ok=True)
 
 indian_entire = indian_root / "_entire"
@@ -60,7 +63,7 @@ grouped_writer("year", indian_root, indian_data)
 
 # Pacific
 pacific_data = list(filter(lambda x: x["basin_name"] == "Pacific", data))
-pacific_root = root_dir / "Pacific" / "_includes"
+pacific_root = reid_root_dir / "Pacific" / "_includes"
 pacific_root.mkdir(parents=True, exist_ok=True)
 
 pacific_entire = pacific_root / "_entire"
