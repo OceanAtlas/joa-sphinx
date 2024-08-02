@@ -145,3 +145,31 @@ pacific_pre_woce = {
 pre_woce_pacific_files = list(filter(lambda x: x["file_name"] in pacific_pre_woce, data))
 pre_woce_pac = pre_woce_root / "_pre_woce_pac"
 pre_woce_pac.write_text(sep.join([file_record(file) for file in pre_woce_pacific_files]))
+
+# SAVE Data
+
+
+save = {
+        'satl.1987.6N.10S_5N.joa',
+        'satl.1987.6N.10S_2N.joa',
+        'satl.1987-88.6N.14S.joa',
+        'satl.1988-89.6N-8M.26S.joa',
+        'satl.1989.8M.41W.joa',
+        'satl.1988-89.6N-8M.47S_4N.joa',
+        'satl.1990.MT.63S_35S.joa',
+        'satl.1990.MT.68W_63W.joa',
+}
+save_files = list(filter(lambda x: x["file_name"] in save, data))
+save_inc = pre_woce_root / "_save"
+save_inc.write_text(sep.join([file_record(file) for file in save_files]))
+
+tto = {
+        'natl.1981.6N.58N.joa',
+        'natl.1981.6N.51N.joa',
+        'natl.1981-82.6N.55W.joa',
+        'natl.1982.6N.4N_17N.joa',
+        'satl.1983.6N.34W_17W.joa',
+}
+tto_files = list(filter(lambda x: x["file_name"] in tto, data))
+tto_inc = pre_woce_root / "_tto"
+tto_inc.write_text(sep.join([file_record(file) for file in tto_files]))
