@@ -8,5 +8,6 @@ It is recommended that JOA users first become familiar with JOA terminology and 
 :maxdepth: 3
 
 guide
+comparing
 o2
 ```
