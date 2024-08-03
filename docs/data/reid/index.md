@@ -19,10 +19,6 @@ The data files all 2200+ sections are in zipped directories in both NODC SD2 ASC
 ```{note} The oxygen and nutrient data in the Reid data collection are in volume units (numerically only ≈2.6% adjustment for nutrients but a factor of ≈45x for dissolved oxygen). To convert from O2 in ml/l to O2 in μmol/kg multiply by 44.660 and divide by density in CGS. [There is a small issue regarding what density to use, but it gets buried in the decimal place weeds. It is best to use sigma-0, i.e. (1000 + sigma0)/1000 in CGS.] To convert from nutrients in μmol/l to μmol/kg divide by density in CGS. Use sigma-0 for the nutrient conversion. See the document [O2 in volume units to O2 in mass units](../../outreach/projects/o2.md) in the JOA Suite (URL: https://joa.ucsd.edu; see Outreach --> Projects & Methods) for instructions on how to use JOA to convert oxygen and nutrient data from volume units to mass units, required for direct comparisons with data from cruises where those parameters are expressed in mass units (most cruises since 1990).
 ```
 
-```{todo}
-Link to O2 mass units page
-```
-
 ```{toctree}
 :maxdepth: 2
 
