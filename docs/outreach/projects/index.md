@@ -5,9 +5,10 @@ It is recommended that JOA users first become familiar with JOA terminology and 
 
 ```{toctree}
 :caption: Projects & Methods
-:maxdepth: 3
+:maxdepth: 1
 
 guide
 comparing
 o2
+review
 ```
