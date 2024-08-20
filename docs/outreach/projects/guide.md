@@ -1,7 +1,7 @@
 # Guide to Data Analysis Projects
 (Use of Java OceanAtlas is described, but other apps, e.g., Ocean Data View, may be equally appropriate)
 
-James H. Swift UCSD Scripps Institution of Oceanography version 2, September 2022
+James H. Swift, UCSD Scripps Institution of Oceanography version 2, September 2022
 
 Personal note: I have enjoyed a career of working on the oceans, spending a little over three years of my life at sea.
 I was part of a team measuring the properties (temperature, salinity, dissolved oxygen, nutrients, ocean carbon parameters, CFCs, etc.) of the water column at the spatial scales represented by the great trans-ocean physical oceanography expeditions, and at the time scales associated with the years to decades between repeat occupations of some of these transects.

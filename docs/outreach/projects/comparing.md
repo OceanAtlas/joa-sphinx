@@ -1,7 +1,6 @@
 # Comparing Multiple Data Files Using Java OceanAtlas (JOA)
 
-James H. Swift, UCSD Scripps Institution of Oceanography
-version of September 2021
+James H. Swift, UCSD Scripps Institution of Oceanography, version of September 2021
 
 ```{note}
 This document refers occasionally to several JOA features which may or may not be enabled in a given installation of JOA.

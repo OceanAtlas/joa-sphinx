@@ -1,6 +1,6 @@
 # A Quick Review of JOA Tools Useful for Data Examination
 
-James H. Swift, UCSD Scripps Institution of Oceanography September 2021
+James H. Swift, UCSD Scripps Institution of Oceanography, September 2021
 
 This document was written to provide an overview of Java OceanAtlas (JOA) functions and capabilities useful to examine and explore data and data products available through the Java OceanAtlas Suite web site, [data homepage](../../data/index.md).
 
