@@ -26,4 +26,7 @@ guided_tour/extracting_selections
 guided_tour/contour_plots
 guided_tour/other_features
 guided_tour/more_about_maps
+guided_tour/how_to_filter_your_data
+guided_tour/final_remarks
+guided_tour/joa_data_files
 ```
