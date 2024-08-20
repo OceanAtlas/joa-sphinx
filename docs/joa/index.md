@@ -18,4 +18,6 @@ guided_tour/starting_joa
 guided_tour/station_maps
 guided_tour/profile_plots
 guided_tour/changing_color_bar
+guided_tour/calculate_parameters
+guided_tour/property_plots
 ```
