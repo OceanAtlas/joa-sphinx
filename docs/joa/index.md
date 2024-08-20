@@ -20,4 +20,10 @@ guided_tour/profile_plots
 guided_tour/changing_color_bar
 guided_tour/calculate_parameters
 guided_tour/property_plots
+guided_tour/browsing
+guided_tour/modifying_plots
+guided_tour/extracting_selections
+guided_tour/contour_plots
+guided_tour/other_features
+guided_tour/more_about_maps
 ```

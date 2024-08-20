@@ -2,7 +2,7 @@
 
 Oceanographers use parameters calculated from the data to aid interpretation. Java OceanAtlas provides means to calculate a wide range of these derived variables. Calculated parameters are usually re-calculated each time the data set is opened. This is usually not a problem because parameter calculations in OceanAtlas are completed easily and quickly. Selecting 'Parameters...' from the Calculations menu brings up the Parameter Calculations dialog box ({numref}`parameter_calculator`).
 
-```{figure} figures/fig8-1.webp
+```{figure} figures/fig8.webp
 :name: parameter_calculator
 
 Java OceanAtlas Parameter Calculations dialog box, set up for calculations of potential temperature ('theta') and the density parameter Sigma-0.
