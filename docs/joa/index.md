@@ -16,4 +16,6 @@ installation/joa5.5
 guided_tour/basic_features
 guided_tour/starting_joa
 guided_tour/station_maps
+guided_tour/profile_plots
+guided_tour/changing_color_bar
 ```

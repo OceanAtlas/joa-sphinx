@@ -5,9 +5,17 @@ Start the Java OceanAtlas application (e.g., by double-clicking on its icon). Yo
 * On Windows and Linux, JOA's menu bar is contained in the initial Data Window in adherence to Windows UI conventions.
 * On Mac OS X, JOA's menu bar is at the top of the screen in adherence to Apple's UI conventions.
 
-Use the 'Open…' command under the JOA File menu to locate and open the A10_2011_bot_clean.joa data file. A standard JOA Data Window will open (Figure 1).
+Use the 'Open…' command under the JOA File menu to locate and open the A10_2011_bot_clean.joa data file. A standard JOA Data Window will open ({numref}`joa_data_window`).
+
+```{figure} figures/fig1.webp
+:name: joa_data_window
+
+The Java OceanAtlas Data Window, shown for the A10_2011 data set, with annotation.
+```
 
 The Data Window provides a common reference for the Java OceanAtlas plots. As we will see in section labeled 'Browsing', parts of it act like a movable magnifying glass on the data set. The Data Window can be moved anywhere on your monitor by click/holding on the title bar and dragging it.
+
+```{admonition} Oceanographic Note
 
 If you are new to oceanography you might not be aware that one of the methods oceanographers utilize to collect information about the origin and circulation of ocean waters is to occupy - from a research vessel - a line of 'stations' across a region of interest. Such a line is usually called a 'section' (short for 'cross section'). A station is a location where the ship stops and takes observations, in this case of the physical/chemical characteristics of the water column. (There are many different types of oceanographic expeditions and observations. Here we focus on the types which produce the data Java OceanAtlas was designed to explore.)
 
@@ -22,3 +30,4 @@ Key sections from the 1990s WOCE Hydrographic Program were repeated during the e
 The "A10" section of 120 full-depth T/S/O2/nutrient/CFC/SF6/carbon stations in the South Atlantic Ocean along ca. 30°S from Africa to South America was occupied by scientists from US institutions during 26 September to 31 October 2011 from the NOAA research ship Ronald H. Brown. It is a good Java OceanAtlas demonstration section because it crosses an interesting ocean region, and the data are of good quality and reasonably complete. We have reversed the station order so that Java OceanAtlas will display the section from west on the left to east on the right.
 
 West-to-east and south-to-north are preferred for left-to-right section orientations by the author (Swift) and many of his colleagues at the UCSD Scripps Institution of Oceanography. Many of the Java OceanAtlas data files are organized to reflect this preference.
+```
