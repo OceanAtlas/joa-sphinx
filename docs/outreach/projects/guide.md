@@ -131,14 +131,11 @@ More broadly consider one or several of these questions:
   *Initial approach suggestions: Maps made from the seasonal WOA gridded data for the World Ocean or sub-regions. Can use the map tools to restrict data to a smaller area of particular interest. Also property-property plots such as theta vs salinity, or water properties vs pressure (depth).*
 * Is there evidence for interannual or decadal changes in an ocean region?
 
-  *Initial approach suggestions: Vertical sections and/or calculations of mean properties using repeated vertical sections and/or the matched line segment vertical section data, also property-property plots such as theta vs salinity, or water properties vs pressure (depth)..
+  *Initial approach suggestions: Vertical sections and/or calculations of mean properties using repeated vertical sections and/or the matched line segment vertical section data, also property-property plots such as theta vs salinity, or water properties vs pressure (depth)..*
 
   Advanced approach suggestion: Use JOA "section calculations" to subtract one overlapping section from another.
 
-  https://joa.ucsd.edu/assets/documents/Comparing%20multiple%20data%20files%20 with%20JOA%20SEP2021.pdf has more information on techniques.*
-
-  ```{todo} Fix link above
-  ```
+  *<project:./comparing.md> has more information on techniques.*
 
 * How do the gridded WOA data used in many models differ from actual ocean data?
 
@@ -224,10 +221,9 @@ Contrast the Greenland Sea, Labrador Sea, and the Mediterranean Sea.
 
 ### Quasi-decadal ocean variability and change
 
-```{note} The JOA Suite "Outreach" "Project and Methods" document "Comparing Multiple Data Files Using Java OceanAtlas (JOA)" provides information on basic and advanced techniques (https://joa.ucsd.edu/assets/documents/Comparing%20multiple%20data%20files%20with %20JOA%20SEP2021.pdf).
-```
-```{todo} fix link in above note
-```
+:::{note}
+The JOA Suite "Outreach" "Project and Methods" document <project:./comparing.md> provides information on basic and advanced techniques.
+:::
 
 Have there been quasi-decadal-scale changes in <temperature, salinity, oxygen, nutrients, CFCs, ocean carbon parameters, and/or calculated parameters>
 
@@ -296,11 +292,9 @@ Examine an ocean carbon parameter along one or more meridional sections in one o
 2. Compare oceans or regions with vertical sections (in JOA these are called contour plots).
 
    As in #1 but with data files from different oceans or regions.
-   See "Comparing multiple data files with JOA SEP2021.pdf" for some methods one can use to go about this.
+   See <project:./comparing.md> for some methods one can use to go about this.
    Compare selected aspects of the observed seawater characteristics between regions.
    How do the distributions of the water masses vary?
-   ```{todo} Make above pdf link somewhere
-   ```
 
    For example, compare two or more of the following:
 
