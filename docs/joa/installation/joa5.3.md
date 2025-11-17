@@ -1,4 +1,4 @@
-# JOA for earlier macOS and Windows versions (JOA 5.3)
+# Download JOA for earlier macOS and Windows versions (JOA 5.3)
 JOA 5.3 is tested and stable, but there are known problems, including issues with netCDF files and the need to make a plot before browsing.
 
 ## macOS
