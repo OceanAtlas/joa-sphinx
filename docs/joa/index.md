@@ -17,6 +17,7 @@ installation/joa5.3
 installation/general_installation_instructions
 installation/mac_specific_installation_instructions
 installation/windows_specific_installation_instructions
+installation/joa_features
 ```
 
 ```{toctree}
