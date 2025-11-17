@@ -21,7 +21,7 @@ todo_emit_warnings = True
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
-myst_enable_extensions = ["attrs_inline", "fieldlist"]
+myst_enable_extensions = ["attrs_inline", "fieldlist", "colon_fence"]
 
 numfig = True
 

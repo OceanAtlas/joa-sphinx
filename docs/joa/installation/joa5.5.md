@@ -18,5 +18,41 @@ Tested on MacOS Monterey (12 beta), Big Sur (11), Catalina (10.15), Mojave (10.1
 
 Click here to find the Mac specific installation instructions for Mac OS 10.15 (Catalina) and above (Mac OS 11 Big Sur, and Mac OS 12 Monterey).
 
+### macOS 10.15 Downloads
+::::{grid} 2
+:::{grid-item-card} {octicon}`download` Download Standard JOA 5.5
+:link: https://cchdo.ucsd.edu/data/22051/JOA5.5.zip
+126.8 MB
+:::
+:::{grid-item-card} {octicon}`download` Download Pro JOA 5.5.1
+:link: https://cchdo.ucsd.edu/data/24533/JOA5.5.1_Pro.zip
+127.6 MB
+:::
+::::
+
+### macOS 10.12-10.14 Downloads
+::::{grid} 2
+:::{grid-item-card} {octicon}`download` Download Standard JOA 5.5
+:link: https://cchdo.ucsd.edu/data/22049/Java%20OceanAtlas.dmg
+116.8 MB
+:::
+:::{grid-item-card} {octicon}`download` Download Pro JOA 5.5.1
+:link: https://cchdo.ucsd.edu/data/22046/Java%20OceanAtlas.dmg
+114.8 MB
+:::
+::::
+
 ## Windows
 JOA 5.5 was tested on Windows 10 (1903). The installer .msi file should run on basically every recent-ish Windows OS, both 32 and 64-bit versions: Vista, Server, 7, 8, 8.1, and 10. Java 8 (the embedded JRE) is compatible with all of those except Vista and some old versions of Server. JOA has not been tested on Windows 11. Please let us know your experience with JOA and Windows 11.
+
+### Windows Downloads
+::::{grid} 2
+:::{grid-item-card} {octicon}`download` Download Standard JOA 5.5
+:link: https://cchdo.ucsd.edu/data/22050/JOA_5.5_Setup.msi
+61.4 MB
+:::
+:::{grid-item-card} {octicon}`download` Download Pro JOA 5.5
+:link: https://cchdo.ucsd.edu/data/22047/JOA_5.5_pro_Setup.msi
+61.4 MB
+:::
+::::
