@@ -1,7 +1,7 @@
 # General Download and installation instructions
 Java OceanAtlas (JOA) is a computer application written in Java. JOA and its support files must be installed on your computer. JOA cannot be opened/run from removable media such as a CD or DVD, nor can it be opened/run over a network. 
 
-Installing JOA is accomplished by mainly unzipping a zip file or disk image on macOS or launching the JOA installer on Windows. See the platform specific installation instructions. A JOA installation is composed of the JOA application and its support files in a single folder/directory. 
+Installing JOA is accomplished by downloading a zipped file and following macOS-specific installation instructions on macOS or launching the JOA installer on Windows. See the platform specific installation instructions. A JOA installation is composed of the JOA application and its support files in a single folder/directory. 
 
 Once you have installed JOA, you should have a folder/directory on your computer with these contents:
 ```{figure} figures/general_install_1.webp
