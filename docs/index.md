@@ -7,13 +7,13 @@ Explore cleaned, vetted World Ocean Bottle and CTD Profile Data
 ## About the Java OceanAtlas Suite
 The Java OceanSuite includes
 
-* Downloads, documentation and support files for the Java OceanAtlas (JOA) application for Windows and MacOS,
+* Downloads, documentation and support files for the Java OceanAtlas (JOA) application for Windows and macOS,
 * an extensive collection of groomed World Ocean vertical profile water sample and CTD data in ASCII WHP-Exchange and JOA binary formats,
 * a virtual research cruise to the far southeast Indian Ocean aboard SIO's R/V Roger Revelle, and
 * suggestions and support for data analysis and exploration projects.
 
 ## About Java OceanAtlas
-Java OceanAtlas (JOA) is a Java application for Windows and MacOS which provides an ad hoc (rather than pre-set) graphic exploration environment optimized to examine and plot oceanographic profile data.
+Java OceanAtlas (JOA) is a Java application for Windows and macOS which provides an ad hoc (rather than pre-set) graphic exploration environment optimized to examine and plot oceanographic profile data.
 JOA works with any pressure- or depth-indexed data, for example 'WHP-Exchange' data, such as from the [CLIVAR and Carbon Hydrographic Data Office (CCHDO)](https://cchdo.ucsd.edu).
 
 Java OceanAtlas plots include property-property plots, maps, offset profiles (waterfall), contour plots, and plots of calculated values, using color-by-property-value as a plotted variable to aid interpretation.

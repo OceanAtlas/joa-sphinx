@@ -14,7 +14,7 @@ Log4j is not an issue for JOA. JOA does not include the Log4j library/jar file i
 ```
 
 ## macOS
-Tested on MacOS Monterey (12 beta), Big Sur (11), Catalina (10.15), Mojave (10.14) and High Sierra (10.13). It may work on earlier versions of Mac OS X. This version of JOA contains an embedded Java environment and does not require a separate Java download. Note: Exact installation instructions must be followed for Mac OS 10.15 and above.
+Tested on macOS Monterey (12 beta), Big Sur (11), Catalina (10.15), Mojave (10.14) and High Sierra (10.13). It may work on earlier versions of Mac OS X. This version of JOA contains an embedded Java environment and does not require a separate Java download. Note: Exact installation instructions must be followed for Mac OS 10.15 and above.
 
 Also see the the [Mac specific installation instructions](mac_specific_installation_instructions.md) for Mac OS 10.15 (Catalina) and above (Mac OS 11 Big Sur, and Mac OS 12 Monterey).
 

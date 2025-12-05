@@ -2,7 +2,7 @@
 
 04 DEC 2025
 
-To install JOA on a MacOS computer, we now recommend only and exactly the method described here.
+To install JOA on a macOS computer, we now recommend only and exactly the method described here.
 
 Java OceanAtlas (JOA) is a safe, well-behaved application, used successfully by hundreds of users.
 Apple has, however, made it increasingly difficult to install independently-developed applications in macOS.

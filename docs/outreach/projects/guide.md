@@ -14,7 +14,7 @@ I assume readers have either had an introduction to descriptive physical oceanog
 The approach here introduces students to examination of hydrographic data, with the aim of learning about the oceans.
 
 ## Application support for data analysis projects
-In this document I describe use of Java OceanAtlas (JOA), a free interactive data exploration and plotting application for MacOS and Windows, because I am familiar with it.
+In this document I describe use of Java OceanAtlas (JOA), a free interactive data exploration and plotting application for macOS and Windows, because I am familiar with it.
 I and developer John "Oz" Osborne designed JOA to facilitate exploration of data at basin- spanning and global scales.
 JOA works well for data analysis projects aimed at these scales. Another reason for the large-scale focus is that it lies at the heart of descriptive physical oceanography.
 However, JOA use is not required.
@@ -38,7 +38,7 @@ It is strongly recommended that JOA users first become familiar with JOA termino
 Undertaking a hydrographic data project involves these key steps:
 
 * Choose some aspect of the physical ocean to examine with water column data from water samples. Often students work with teachers, their advisers, or other mentors to choose a project focus. This should include a rough plan of approach, and consider what data are needed (see later in this document for sample project ideas).
-* If you will use JOA, download and install JOA on a Windows or MacOS computer. See [](../../joa/index.md).
+* If you will use JOA, download and install JOA on a Windows or macOS computer. See [](../../joa/index.md).
 * Go through the JOA Guided Tour. This not only gets you started with JOA, but also covers some basic physical oceanography.
 * If you are not using JOA, develop a plan for what tools you will use. For example see <https://odv.awi.de> for ODV.
 * Locate and download data of interest to your goals. There is a large library of curated data in binary and ascii formats available at [the data homepage](../../data/index.md).

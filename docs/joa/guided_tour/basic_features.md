@@ -12,4 +12,4 @@ A bit of basic oceanography is thrown in, too. Such text is indicated by use of 
 ```
 
 The appearance (the look and feel) of Java OceanAtlas dialog boxes and windows is different on Windows and Mac OS computers because Java OceanAtlas adheres to specific user-interface standards for each operating system.
-The illustrations shown in this tutorial were created on a MacOS computer.
+The illustrations shown in this tutorial were created on a macOS computer.
