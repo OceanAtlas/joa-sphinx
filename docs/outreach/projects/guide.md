@@ -25,21 +25,6 @@ For those who choose to use JOA, I emphasize the value of early-on downloading a
 The Guided Tour not only will provide much of what is needed to get started with JOA and a data analysis project, but it also may help one's comprehension of some of the lectures in an introductory course in physical oceanography.
 
 To download JOA onto computer, see the application area of the [Java OceanAtlas Suite web site](../../joa/index.md) and exactly follow the installation instructions for your computer operating system.
-Windows users are having close to 100% success with JOA installation from the site.
-MacOS users are not faring as well, because Apple keeps making it more and more difficult for developers to create independent apps.
-
-```{note}
-Important for JOA installations on MacOS computers: If you exactly follow the MacOS
-installation instructions on the JOA Suite site and your JOA installation does not work,
-we have a proven work-around: copying a complete JOA folder from a MacOS computer
-where it is working OK onto a flash drive and then onto to your desktop or applications
-folder. Please copy the entire folder - not just the contents, but folder and all - onto your
-MacOS computer. This should work. (Please do not try to run JOA from the flash drive.)
-
-[If you cannot locate a person successfully using the current version of JOA on a MacOS
-computer, send an email (see the contact information on the JOA Suite site) and we will
-see if we can mail you a flash drive pre-loaded with JOA, which you can then mail back.]
-```
 
 By the way, the only difference between the regular and "pro" versions of JOA 5.5 is that the pro version requires at least 16 GB RAM. The pro versions are needed only if you plan to work with the largest global data files on the JOA Suite data site, for example the 217 MB global 1-degree gridded file "WOA18_annual_decimated_all_102_levels_mass.jos".
 
