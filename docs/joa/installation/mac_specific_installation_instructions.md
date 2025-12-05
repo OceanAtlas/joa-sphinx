@@ -12,7 +12,7 @@ Many thanks to SIO data specialist and developer Andrew Barna, who came up with 
 [Windows users are not reporting installation problems with the on-line instructions.]
 
 * You do not have to install a separate Java environment for JOA 5.5
-* We presently support JOA 5.5 installation on macOS 10.15 and higher. (We have not yet verified the installation process for macOS 26 and higher, but it is likely that it will work for macOS 26.1, the official highest version as of the date of these instructions. To check what version of macOS is installed on your computer, go to the Apple menu in the top left corner of your screen and select "About This Mac".) 
+* We support JOA 5.5 installation on macOS 10.15 and higher (verified through macOS 26.1). To check what version of macOS is installed on your computer, go to the Apple menu in the top left corner of your screen and select "About This Mac".
 * The only difference between the regular and 'pro' versions of JOA is that the 'pro' version is capable of handling the largest all-globe World Ocean Atlas 3-D gridded data file but requires at least 16 GB of installed RAM. The regular version requires only 4 GB of RAM.
 
 :::{important}
