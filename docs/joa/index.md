@@ -8,6 +8,7 @@ Java OceanAtlas (JOA) is a Java application for Windows and macOS which provides
 :caption: Downloads
 
 installation/joa5.5
+etopo/index
 ```
 
 ```{toctree}
