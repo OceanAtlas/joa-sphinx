@@ -1,0 +1,357 @@
+[[section]]
+title = "A16_files_for_grand_tour_2"
+
+[[section.years]]
+year = "A16_bottle_for_grand_tour_2"
+
+[[section.years.files]]
+name = "A16_2005_2003_botclean_N2S_2.joa"
+
+[[section.years.files]]
+name = "A16_bottle_filler_for_tour2.joa"
+
+[[section.years.files]]
+name = "A16_bottle_filler_for_tour2_hy1.csv"
+
+[[section.years.files]]
+name = "a16n_2003_botclean2_2_hy1.csv"
+
+[[section.years.files]]
+name = "a16n_2003_botclean2_2.joa"
+
+[[section.years.files]]
+name = "a16s_2005_botclean_2_hy1.csv"
+
+[[section.years.files]]
+name = "a16s_2005_botclean_2.joa"
+
+[[section.years]]
+year = "A16_CTD_for_grand_tour_2"
+
+[[section.years.files]]
+name = "A16_CTD_w_filler_for_tour2.joa"
+
+[[section.years.files]]
+name = "A16_CTD_filler_for_tour2.joa"
+
+[[section.years.files]]
+name = "A16_CTD_filler_for_tour2_hy1.csv"
+
+[[section.years.files]]
+name = "A16N_for_tour2_CTD_ct1.zip"
+
+[[section.years.files]]
+name = "A16N_for_tour2_CTD.joa"
+
+[[section.years.files]]
+name = "A16S_for_tour2_CTD_ct1.zip"
+
+[[section.years.files]]
+name = "A16S_for_tour2_CTD.joa"
+
+[[section]]
+title = "A23_files_for_grand_tour_2"
+
+[[section.years]]
+year = "A23_bottle_files_for_tour_2"
+
+[[section.years.files]]
+name = "A23_1995_bottle_for_tour2.joa"
+
+[[section.years.files]]
+name = "A23_1995_for_tour2_hy1.csv"
+
+[[section.years]]
+year = "A23_CTD_files_for_tour_2"
+
+[[section.years.files]]
+name = "A23_1995_CTD_for_tour2.joa"
+
+[[section.years.files]]
+name = "A23_1995_CTD_for_tour2_ct1.zip"
+
+[[section]]
+title = "Arctic_files_for_grand_tour_2"
+
+[[section.years]]
+year = "Arctic_bottle_for_tour_2"
+
+[[section.years.files]]
+name = "Arctic_bot_for_global_section_2.joa"
+
+[[section.years.files]]
+name = "a87.fixedO2.362_278_hy1.csv"
+
+[[section.years.files]]
+name = "a87.fixedO2.362_278.joa"
+
+[[section.years.files]]
+name = "AOS94clean.w.CFC.36_hy1.csv"
+
+[[section.years.files]]
+name = "AOS94clean.w.CFC.36.joa"
+
+[[section.years.files]]
+name = "ODEN_IOS_2005_botclean2_hy1.csv"
+
+[[section.years.files]]
+name = "ODEN_IOS_2005_botclean2.joa"
+
+[[section.years.files]]
+name = "SBI_2003_bot_for_tour_hy1.csv"
+
+[[section.years.files]]
+name = "SBI_2003_bot_for_tour.joa"
+
+[[section.years]]
+year = "Arctic_CTD_for_grand_tour_2"
+
+[[section.years.files]]
+name = "Arctic_CTD_for_tour2.joa"
+
+[[section.years.files]]
+name = "SBI2003_CTD_for_tour2.joa"
+
+[[section.years.files]]
+name = "A87_CTD_for_tour2_ct1.zip"
+
+[[section.years.files]]
+name = "A87_CTD_for_tour2.joa"
+
+[[section.years.files]]
+name = "AOS94_CTD_036_for_tour2_ct1.csv"
+
+[[section.years.files]]
+name = "AOS94_CTD_036_for_tour2.joa"
+
+[[section.years.files]]
+name = "ODEN2005_CTD_for_tour2_ct1.zip"
+
+[[section.years.files]]
+name = "ODEN2005_CTD_for_tour2.joa"
+
+[[section.years.files]]
+name = "SBI2003_CTD_for_tour2_ct1.zip"
+
+[[section]]
+title = "NordicSeas_files_for_grand_tour_2"
+
+[[section.years]]
+year = "NordicSeas_bottle_for_tour_2"
+
+[[section.years.files]]
+name = "NordicSeas_w_fill_bot_for_transGlobal2.joa"
+
+[[section.years.files]]
+name = "NordicSea2002_bot_for_tour2.joa"
+
+[[section.years.files]]
+name = "NordicSea2002_for_transGlobal2_hy1.csv"
+
+[[section.years.files]]
+name = "NordicSeas_bot_filler_for_Global2.joa"
+
+[[section.years.files]]
+name = "NordicSeas_bot_filler_for_Global2_hy1.csv"
+
+[[section.years]]
+year = "NordicSeas_CTD_for_tour_2"
+
+[[section.years.files]]
+name = "NordicSeas_CTD_w_filler_for_tour2.joa"
+
+[[section.years.files]]
+name = "NordicSeas_CTD_filler_for_tour2_hy1.csv"
+
+[[section.years.files]]
+name = "NordicSeas_CTD_filler_for_tour2.joa"
+
+[[section.years.files]]
+name = "NordicSeas_CTD_for_tour2_ct1.zip"
+
+[[section.years.files]]
+name = "NordicSeas_CTD_for_tour2.joa"
+
+[[section]]
+title = "P14_files_for_grand_tour_2"
+
+[[section.years]]
+year = "P14_bottle_for_tour_2"
+
+[[section.years.files]]
+name = "P14_bottle_for_tour_2.joa"
+
+[[section.years.files]]
+name = "P14_bottle_filler_2_hy1.csv"
+
+[[section.years.files]]
+name = "P14_bottle_filler_2.joa"
+
+[[section.years.files]]
+name = "P14C_botclean_2_hy1.csv"
+
+[[section.years.files]]
+name = "P14C_bottle_for_tour_2.joa"
+
+[[section.years.files]]
+name = "P14N_botclean_2_hy1.csv"
+
+[[section.years.files]]
+name = "P14N_bottle_for_tour_2.joa"
+
+[[section.years.files]]
+name = "P14S_botclean1_2_hy1.csv"
+
+[[section.years.files]]
+name = "P14S_bottle_for_tour_2.joa"
+
+[[section.years.files]]
+name = "S04p_bottle_for_tour_2_hy1.csv"
+
+[[section.years.files]]
+name = "S04P_bottle_for_tour_2.joa"
+
+[[section.years]]
+year = "P14_CTD_for_tour_2"
+
+[[section.years.files]]
+name = "P14_CTD_w_filler_for_tour2.joa"
+
+[[section.years.files]]
+name = "P14_CTD_filler.jos"
+
+[[section.years.files]]
+name = "P14C_CTD_for_tour2_ct1.zip"
+
+[[section.years.files]]
+name = "P14C_CTD_for_tour2.joa"
+
+[[section.years.files]]
+name = "P14N_CTD_for_tour2_ct1.zip"
+
+[[section.years.files]]
+name = "P14N_CTD_for_tour2.joa"
+
+[[section.years.files]]
+name = "P14S_CTD_for_tour2_ct1.zip"
+
+[[section.years.files]]
+name = "P14S_CTD_for_tour2.joa"
+
+[[section.years.files]]
+name = "S4P_CTD_for_tour2_ct1.zip"
+
+[[section.years.files]]
+name = "S4P_CTD_for_tour2.joa"
+
+[[section]]
+title = "Grand_Tour_2_Documentation_Files"
+
+[[section.years]]
+year = "Grand_Tour_2_Documentation.pdf"
+path = "https://cchdo.ucsd.edu/data/16313/Grand_Tour_2_Documentation.pdf"
+
+[[section.years]]
+year = "Ocean_Grand_Tour_original.pdf"
+
+[[section.years]]
+year = "WHP_Exchange_Description_05June2008.doc"
+
+[[yeardropdown]]
+year = 1967
+
+[[yeardropdown]]
+year = 1970
+
+[[yeardropdown]]
+year = 1974
+
+[[yeardropdown]]
+year = 1980
+
+[[yeardropdown]]
+year = 1984
+
+[[yeardropdown]]
+year = 1985
+
+[[yeardropdown]]
+year = 1987
+
+[[yeardropdown]]
+year = 1989
+
+[[yeardropdown]]
+year = 1990
+
+[[yeardropdown]]
+year = 1991
+
+[[yeardropdown]]
+year = 1992
+
+[[yeardropdown]]
+year = 1993
+
+[[yeardropdown]]
+year = 1994
+
+[[yeardropdown]]
+year = 1995
+
+[[yeardropdown]]
+year = 1996
+
+[[yeardropdown]]
+year = 1999
+
+[[yeardropdown]]
+year = 2001
+
+[[yeardropdown]]
+year = 2003
+
+[[yeardropdown]]
+year = 2004
+
+[[yeardropdown]]
+year = 2005
+
+[[yeardropdown]]
+year = 2006
+
+[[yeardropdown]]
+year = 2007
+
+[[yeardropdown]]
+year = 2008
+
+[[yeardropdown]]
+year = 2009
+
+[[yeardropdown]]
+year = 2010
+
+[[yeardropdown]]
+year = 2011
+
+[[yeardropdown]]
+year = 2012
+
+[[yeardropdown]]
+year = 2013
+
+[[yeardropdown]]
+year = 2014
+
+[[yeardropdown]]
+year = 2015
+
+[[yeardropdown]]
+year = 2016
+
+[[yeardropdown]]
+year = 2017
+
+[[yeardropdown]]
+year = 2018

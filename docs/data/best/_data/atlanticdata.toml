@@ -1,0 +1,3289 @@
+[[section]]
+title = "Guide"
+
+[[section.years]]
+year = "N/A"
+
+[[section.years.files]]
+name = "Guide to Atlantic Cruise and Clean Files"
+path = "assets/documents/Guide to Atlantic Cruises and Clean Files.pdf"
+
+[[section]]
+title = "Maps"
+
+[[section.years]]
+year = "N/A"
+
+[[section.years.files]]
+name = "Atlantic Ocean Matched Line Segment map"
+path = "assets/documents/Atlantic Ocean matched line segment map.pdf"
+
+[[section]]
+title = "A01/AR07"
+zip_path = "https://cchdo.ucsd.edu/data/19631/A01:AR07.zip"
+
+[[section.years]]
+year = "1981-1982"
+
+[[section.years.files]]
+name = "natl.1981.6N.58N.joa"
+path = "https://cchdo.ucsd.edu/data/18643/natl.1981.6N.58N.joa"
+
+[[section.years]]
+year = 1995
+
+[[section.years.files]]
+name = "A01_1995_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18644/A01_1995_bot_clean_edited_hy1.csv"
+
+[[section.years.files]]
+name = "A01_1995_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18645/A01_1995_bot_clean_edited.joa"
+
+[[section.years]]
+year = "WOA"
+
+[[section.years.files]]
+name = "A01_WOA05_clean_vol.joa"
+path = "https://cchdo.ucsd.edu/data/18646/A01_WOA05_clean_vol.joa"
+
+[[section]]
+title = "A01E/AR07E"
+zip_path = "https://cchdo.ucsd.edu/data/19632/A01E:AR07E.zip"
+
+[[section.years]]
+year = 1990
+
+[[section.years.files]]
+name = "AR07E_1990_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18647/AR07E_1990_bot_clean_sorted_hy1.csv"
+
+[[section.years.files]]
+name = "AR07E_1990_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18648/AR07E_1990_bot_clean_sorted.joa"
+
+[[section.years]]
+year = "1991_a"
+
+[[section.years.files]]
+name = "AR07E_1991_04_APR_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18649/AR07E_1991_04_APR_bot_clean.joa"
+
+[[section.years.files]]
+name = "AR07E_1991_04_APR_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18650/AR07E_1991_04_APR_bot_clean2_hy1.csv"
+
+[[section.years]]
+year = "1991_b"
+
+[[section.years.files]]
+name = "AR07E_1991_08_AUG_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18651/AR07E_1991_08_AUG_bot_clean_edited_hy1.csv"
+
+[[section.years.files]]
+name = "AR07E_1991_08_AUG_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18652/AR07E_1991_08_AUG_bot_clean_edited.joa"
+
+[[section.years]]
+year = "1991_c"
+
+[[section.years.files]]
+name = "AR07E_1991_09_SEP_bottle_clean_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18653/AR07E_1991_09_SEP_bottle_clean_hy1.csv"
+
+[[section.years.files]]
+name = "AR07E_1991_09_SEP_bottle_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18654/AR07E_1991_09_SEP_bottle_clean.joa"
+
+[[section.years]]
+year = 1992
+
+[[section.years.files]]
+name = "AR07E_1992_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18655/AR07E_1992_bot_clean.joa"
+
+[[section.years.files]]
+name = "AR07E_1992_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18656/AR07E_1992_bot_clean2_hy1.csv"
+
+[[section.years]]
+year = 1994
+
+[[section.years.files]]
+name = "AR07E_1994_bottle_clean_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18657/AR07E_1994_bottle_clean_hy1.csv"
+
+[[section.years.files]]
+name = "AR07E_1994_bottle_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18658/AR07E_1994_bottle_clean.joa"
+
+[[section.years]]
+year = 1997
+
+[[section.years.files]]
+name = "AR07E_1997_08_AUG_b_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18659/AR07E_1997_08_AUG_b_bot_clean.joa"
+
+[[section.years.files]]
+name = "AR07E_1997_08_AUG_b_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18660/AR07E_1997_08_AUG_b_bot_clean2_hy1.csv"
+
+[[section.years]]
+year = 2000
+
+[[section.years.files]]
+name = "AR07E_2000_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18661/AR07E_2000_bot_clean.joa"
+
+[[section.years.files]]
+name = "AR07E_2000_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18662/AR07E_2000_bot_clean2_hy1.csv"
+
+[[section.years]]
+year = 2005
+
+[[section.years.files]]
+name = "AR07E_2005_09_SEP_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18663/AR07E_2005_09_SEP_bot_clean_edited_hy1.csv"
+
+[[section.years.files]]
+name = "AR07E_2005_09_SEP_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18664/AR07E_2005_09_SEP_bot_clean_edited.joa"
+
+[[section.years]]
+year = 2007
+
+[[section.years.files]]
+name = "AR07E_2007_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18665/AR07E_2007_bot_clean_edited_hy1.csv"
+
+[[section.years.files]]
+name = "AR07E_2007_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18666/AR07E_2007_bot_clean_edited.joa"
+
+[[section.years]]
+year = 2011
+
+[[section.years.files]]
+name = "AR07E_2011_05_MAY_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18667/AR07E_2011_05_MAY_bot_clean_edited_hy1.csv"
+
+[[section.years.files]]
+name = "AR07E_2011_05_MAY_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18668/AR07E_2011_05_MAY_bot_clean_edited.joa"
+
+[[section.years]]
+year = 2012
+
+[[section.years.files]]
+name = "AR07E_2012_06_JUN_b_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18669/AR07E_2012_06_JUN_b_bot_clean.joa"
+
+[[section.years.files]]
+name = "AR07E_2012_06_JUN_b_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18670/AR07E_2012_06_JUN_b_bot_clean2_hy1.csv"
+
+[[section.years]]
+year = 2015
+
+[[section.years.files]]
+name = "AR07E_2015_partial_bottle_clean_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18671/AR07E_2015_partial_bottle_clean_hy1.csv"
+
+[[section.years.files]]
+name = "AR07E_2015_partial_bottle_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18672/AR07E_2015_partial_bottle_clean.joa"
+
+[[section.years]]
+year = "WOA"
+
+[[section.years.files]]
+
+[[section]]
+title = "A01W/AR07W"
+zip_path = "https://cchdo.ucsd.edu/data/19633/A01W:AR07W.zip"
+
+[[section.years]]
+year = 1990
+
+[[section.years.files]]
+name = "AR07W_1990_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16124/AR07W_1990_bot_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_1990_bot_clean_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/16123/AR07W_1990_bot_clean_hy1.csv"
+
+[[section.years.files]]
+name = "AR07W_1990_ctd_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16126/AR07W_1990_ctd_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_1990_ctd_clean_ct1.zip"
+path = "https://cchdo.ucsd.edu/data/16125/AR07W_1990_ctd_clean_ct1.zip"
+
+[[section.years]]
+year = 1992
+
+[[section.years.files]]
+name = "AR07W_1992_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16128/AR07W_1992_bot_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_1992_bot_clean_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/16127/AR07W_1992_bot_clean_hy1.csv"
+
+[[section.years.files]]
+name = "AR07W_1992_ctd_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16130/AR07W_1992_ctd_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_1992_ctd_clean_ct1.zip"
+path = "https://cchdo.ucsd.edu/data/16129/AR07W_1992_ctd_clean_ct1.zip"
+
+[[section.years]]
+year = 1993
+
+[[section.years.files]]
+name = "AR07W_1993_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16132/AR07W_1993_bot_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_1993_bot_clean_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/16131/AR07W_1993_bot_clean_hy1.csv"
+
+[[section.years.files]]
+name = "AR07W_1993_ctd_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16134/AR07W_1993_ctd_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_1993_ctd_clean_ct1.zip"
+path = "https://cchdo.ucsd.edu/data/16133/AR07W_1993_ctd_clean_ct1.zip"
+
+[[section.years]]
+year = 1994
+
+[[section.years.files]]
+name = "AR07W_1994_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16136/AR07W_1994_bot_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_1994_bot_clean_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/16135/AR07W_1994_bot_clean_hy1.csv"
+
+[[section.years.files]]
+name = "AR07W_1994_ctd_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16138/AR07W_1994_ctd_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_1994_ctd_clean_ct1.zip"
+path = "https://cchdo.ucsd.edu/data/16137/AR07W_1994_ctd_clean_ct1.zip"
+
+[[section.years]]
+year = 1995
+
+[[section.years.files]]
+name = "AR07W_1995_06_JUN_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18674/AR07W_1995_06_JUN_bot_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_1995_06_JUN_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18675/AR07W_1995_06_JUN_bot_clean2_hy1.csv"
+
+[[section.years]]
+year = 1996
+
+[[section.years.files]]
+name = "AR07W_1996_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16139/AR07W_1996_ct1.zip"
+
+[[section.years.files]]
+name = "AR07W_1996_bot_clean_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/16140/AR07W_1996a_bot_clean_hy1.csv"
+
+[[section.years.files]]
+name = "AR07W_1996_ctd_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16142/AR07W_1996a_ctd_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_1996_ctd_clean_ct1.zip"
+path = "https://cchdo.ucsd.edu/data/16139/AR07W_1996_ct1.zip"
+
+[[section.years]]
+year = "1997_a"
+
+[[section.years.files]]
+name = "AR07W_1997a_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16144/AR07W_1997a_bot_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_1997a_bot_clean_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/16143/AR07W_1997a_bot_clean_hy1.csv"
+
+[[section.years.files]]
+name = "AR07W_1997a_ctd_clean2_ct1.zip"
+path = "https://cchdo.ucsd.edu/data/16145/AR07W_1997a_ctd_clean2_ct1.zip"
+
+[[section.years]]
+year = "1997_b"
+
+[[section.years.files]]
+name = "AR07W_1997b_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16147/AR07W_1997b_bot_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_1997b_bot_clean_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/16146/AR07W_1997b_bot_clean_hy1.csv"
+
+[[section.years]]
+year = 1998
+
+[[section.years.files]]
+name = "AR07W_1998_bot_clean2.joa"
+path = "https://cchdo.ucsd.edu/data/16149/AR07W_1998_bot_clean2.joa"
+
+[[section.years.files]]
+name = "AR07W_1998_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/16148/AR07W_1998_bot_clean2_hy1.csv"
+
+[[section.years.files]]
+name = "AR07W_1998_ctd_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16151/AR07W_1998_ctd_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_1998_ctd_clean_ct1.zip"
+path = "https://cchdo.ucsd.edu/data/16150/AR07W_1998_ctd_clean_ct1.zip"
+
+[[section.years]]
+year = 1999
+
+[[section.years.files]]
+name = "AR07W_1999a_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16153/AR07W_1999a_bot_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_1999a_bot_clean_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/16152/AR07W_1999a_bot_clean_hy1.csv"
+
+[[section.years.files]]
+name = "AR07W_1999a_ctd_clean2_ct1.zip"
+path = "https://cchdo.ucsd.edu/data/16154/AR07W_1999a_ctd_clean2_ct1.zip"
+
+[[section.years]]
+year = 2000
+
+[[section.years.files]]
+name = "AR07W_2000_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16158/AR07W_2000_bot_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_2000_bot_clean_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/16157/AR07W_2000_bot_clean_hy1.csv"
+
+[[section.years]]
+year = 2001
+
+[[section.years.files]]
+name = "AR07W_2001_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16160/AR07W_2001_bot_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_2001_bot_clean_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/16159/AR07W_2001_bot_clean_hy1.csv"
+
+[[section.years.files]]
+name = "AR07W_2001_ctd_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16162/AR07W_2001_ctd_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_2001_ctd_clean_ct1.zip"
+path = "https://cchdo.ucsd.edu/data/16161/AR07W_2001_ctd_clean_ct1.zip"
+
+[[section.years]]
+year = "2002_a"
+
+[[section.years.files]]
+name = "AR07W_2002_06_JUN_bot_clean3.joa"
+path = "https://cchdo.ucsd.edu/data/18677/AR07W_2002_06_JUN_bot_clean3.joa"
+
+[[section.years.files]]
+name = "AR07W_2002_06_JUN_bot_clean3_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18676/AR07W_2002_06_JUN_bot_clean3_hy1.csv"
+
+[[section.years]]
+year = "2002_b"
+
+[[section.years.files]]
+name = "AR07W_2002_11_NOV_CTD_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16163/AR07W_2002_b_CTD_cleaned.joa"
+
+[[section.years]]
+year = 2003
+
+[[section.years.files]]
+name = "AR07W_2003_07_JUL_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18678/AR07W_2003_07_JUL_bot_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_2003_07_JUL_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18679/AR07W_2003_07_JUL_bot_clean2_hy1.csv"
+
+[[section.years.files]]
+name = "AR07W_2003_ctd_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16167/AR07W_2003_ctd_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_2003_ctd_clean_ct1.zip"
+path = "https://cchdo.ucsd.edu/data/16166/AR07W_2003_ctd_clean_ct1.zip"
+
+[[section.years]]
+year = 2004
+
+[[section.years.files]]
+name = "AR07W_2004_05_MAY_bot_clean2.joa"
+path = "https://cchdo.ucsd.edu/data/18680/AR07W_2004_05_MAY_bot_clean2.joa"
+
+[[section.years.files]]
+name = "AR07W_2004_05_MAY_bot_clean3_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18681/AR07W_2004_05_MAY_bot_clean3_hy1.csv"
+
+[[section.years.files]]
+name = "AR07W_2004_ctd_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16171/AR07W_2004_ctd_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_2004_ctd_clean_ct1.zip"
+path = "https://cchdo.ucsd.edu/data/16170/AR07W_2004_ctd_clean_ct1.zip"
+
+[[section.years]]
+year = 2005
+
+[[section.years.files]]
+name = "AR07W_2005_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16173/AR07W_2005_bot_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_2005_bot_clean_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/16172/AR07W_2005_bot_clean_hy1.csv"
+
+[[section.years.files]]
+name = "AR07W_2005_ctd_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16175/AR07W_2005_ctd_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_2005_ctd_clean_ct1.zip"
+path = "https://cchdo.ucsd.edu/data/16174/AR07W_2005_ctd_clean_ct1.zip"
+
+[[section.years]]
+year = 2006
+
+[[section.years.files]]
+name = "AR07W_2006_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16177/AR07W_2006_bot_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_2006_bot_clean_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/16176/AR07W_2006_bot_clean_hy1.csv"
+
+[[section.years.files]]
+name = "AR07W_2006_ctd_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16179/AR07W_2006_ctd_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_2006_ctd_clean_ct1.zip"
+path = "https://cchdo.ucsd.edu/data/16178/AR07W_2006_ctd_clean_ct1.zip"
+
+[[section.years]]
+year = 2007
+
+[[section.years.files]]
+name = "AR07W_2007_05_MAY_bot_clean3.joa"
+path = "https://cchdo.ucsd.edu/data/18683/AR07W_2007_05_MAY_bot_clean3.joa"
+
+[[section.years.files]]
+name = "AR07W_2007_05_MAY_bot_clean3_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18682/AR07W_2007_05_MAY_bot_clean3_hy1.csv"
+
+[[section.years]]
+year = "2008_a"
+
+[[section.years.files]]
+name = "AR07W_2008_05_MAY_bot_clean3.joa"
+path = "https://cchdo.ucsd.edu/data/18685/AR07W_2008_05_MAY_bot_clean3.joa"
+
+[[section.years.files]]
+name = "AR07W_2008_05_MAY_bot_clean3_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18684/AR07W_2008_05_MAY_bot_clean3_hy1.csv"
+
+[[section.years]]
+year = "2008_b"
+
+[[section.years.files]]
+name = "AR07W_2008_08_AUG_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18686/AR07W_2008_08_AUG_bot_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_2008_08_AUG_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18687/AR07W_2008_08_AUG_bot_clean2_hy1.csv"
+
+[[section.years]]
+year = "2009_a"
+
+[[section.years.files]]
+name = "AR07W_2009a_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16183/AR07W_2009a_bot_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_2009a_bot_clean_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/16182/AR07W_2009a_bot_clean_hy1.csv"
+
+[[section.years.files]]
+name = "AR07W_2009a_ctd_clean_ct1.zip"
+path = "https://cchdo.ucsd.edu/data/16184/AR07W_2009a_ctd_clean_ct1.zip"
+
+[[section.years]]
+year = "2009_b"
+
+[[section.years.files]]
+name = "AR07W_2009b_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16186/AR07W_2009b_bot_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_2009b_bot_clean_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/16185/AR07W_2009b_bot_clean_hy1.csv"
+
+[[section.years]]
+year = 2010
+
+[[section.years.files]]
+name = "AR07W_2010_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16188/AR07W_2010_bot_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_2010_bot_clean_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/16187/AR07W_2010_bot_clean_hy1.csv"
+
+[[section.years.files]]
+name = "AR07W_2010_ctd_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16190/AR07W_2010_ctd_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_2010_ctd_clean_ct1.zip"
+path = "https://cchdo.ucsd.edu/data/16189/AR07W_2010_ctd_clean_ct1.zip"
+
+[[section.years]]
+year = "2011_a"
+
+[[section.years.files]]
+name = "AR07W_2011_05_MAY_a_bot_clean3.joa"
+path = "https://cchdo.ucsd.edu/data/18689/AR07W_2011_05_MAY_a_bot_clean3.joa"
+
+[[section.years.files]]
+name = "AR07W_2011_05_MAY_a_bot_clean3_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18688/AR07W_2011_05_MAY_a_bot_clean3_hy1.csv"
+
+[[section.years]]
+year = "2011_b"
+
+[[section.years.files]]
+
+[[section.years]]
+year = 2012
+
+[[section.years.files]]
+name = "AR07W_2012_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18691/AR07W_2012_bot_clean_sorted.joa"
+
+[[section.years.files]]
+name = "AR07W_2012_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18690/AR07W_2012_bot_clean_sorted_hy1.csv"
+
+[[section.years]]
+year = 2013
+
+[[section.years.files]]
+name = "AR07W_2013_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18693/AR07W_2013_bot_clean_sorted.joa"
+
+[[section.years.files]]
+name = "AR07W_2013_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18692/AR07W_2013_bot_clean_sorted_hy1.csv"
+
+[[section.years]]
+year = 2014
+
+[[section.years.files]]
+name = "AR07W_2014_05_MAY_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18694/AR07W_2014_05_MAY_bot_clean.joa"
+
+[[section.years.files]]
+name = "AR07W_2014_05_MAY_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18695/AR07W_2014_05_MAY_bot_clean2_hy1.csv"
+
+[[section.years]]
+year = 2015
+
+[[section.years.files]]
+name = "AR07W_2015_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18697/AR07W_2015_bot_clean_sorted.joa"
+
+[[section.years.files]]
+name = "AR07W_2015_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18696/AR07W_2015_bot_clean_sorted_hy1.csv"
+
+[[section.years]]
+year = 2016
+
+[[section.years.files]]
+name = "AR07W_2016_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18699/AR07W_2016_bot_clean_sorted.joa"
+
+[[section.years.files]]
+name = "AR07W_2016_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18698/AR07W_2016_bot_clean_sorted_hy1.csv"
+
+[[section.years]]
+year = "WOA"
+
+[[section.years.files]]
+
+[[section]]
+title = "A02/AR19"
+zip_path = "https://cchdo.ucsd.edu/data/19634/A02:AR19.zip"
+
+[[section.years]]
+year = 1993
+
+[[section.years.files]]
+name = "A02_1993_06_JUN_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18772/A02_1993_06_JUN_bot_clean_edited.joa"
+
+[[section.years.files]]
+name = "A02_1993_06_JUN_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18771/A02_1993_06_JUN_bot_clean_edited_hy1.csv"
+
+[[section.years]]
+year = 1994
+
+[[section.years.files]]
+name = "A02_1994_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18774/A02_1994_bot_clean_edited.joa"
+
+[[section.years.files]]
+name = "A02_1994_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18773/A02_1994_bot_clean_edited_hy1.csv"
+
+[[section.years.files]]
+name = "A02_1994_ctd_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18775/A02_1994_ctd_clean.joa"
+
+[[section.years]]
+year = 1996
+
+[[section.years.files]]
+name = "A02_1996_05_MAY_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18776/A02_1996_05_MAY_bot_clean.joa"
+
+[[section.years.files]]
+name = "A02_1996_05_MAY_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18777/A02_1996_05_MAY_bot_clean2_hy1.csv"
+
+[[section.years]]
+year = 1997
+
+[[section.years.files]]
+name = "A02_1997_06_JUN_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18778/A02_1997_06_JUN_bot_clean.joa"
+
+[[section.years.files]]
+name = "A02_1997_06_JUN_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18779/A02_1997_06_JUN_bot_clean2_hy1.csv"
+
+[[section.years.files]]
+name = "A02_1997_ctd_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18780/A02_1997_ctd_clean.joa"
+
+[[section.years]]
+year = 1998
+
+[[section.years.files]]
+name = "A02_1998_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18781/A02_1998_bot_clean.joa"
+
+[[section.years.files]]
+name = "A02_1998_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18782/A02_1998_bot_clean2_hy1.csv"
+
+[[section.years]]
+year = 2000
+
+[[section.years.files]]
+name = "A02_2000_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18783/A02_2000_bot_clean.joa"
+
+[[section.years.files]]
+name = "A02_2000_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18784/A02_2000_bot_clean2_hy1.csv"
+
+[[section.years]]
+year = 2001
+
+[[section.years.files]]
+name = "A02_2001_bot_clean_sorted_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18786/A02_2001_bot_clean_sorted_edited.joa"
+
+[[section.years.files]]
+name = "A02_2001_bot_clean_sorted_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18785/A02_2001_bot_clean_sorted_edited_hy1.csv"
+
+[[section.years]]
+year = 2011
+
+[[section.years.files]]
+name = "A02_2011_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18787/A02_2011_bot_clean.joa"
+
+[[section.years.files]]
+name = "A02_2001_bot_clean_sorted_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18785/A02_2001_bot_clean_sorted_edited_hy1.csv"
+
+[[section.years]]
+year = 2017
+
+[[section.years.files]]
+name = "A02_2017_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18789/A02_2017_bot_clean_edited_hy1.csv"
+
+[[section.years.files]]
+name = "A02_2017_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18790/A02_2017_bot_clean_edited.joa"
+
+[[section.years]]
+year = "WOA"
+
+[[section.years.files]]
+
+[[section]]
+title = "A03"
+zip_path = "https://cchdo.ucsd.edu/data/19635/A03.zip"
+
+[[section.years]]
+year = 1993
+
+[[section.years.files]]
+name = "A03_1993_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18792/A03_1993_bot_clean_edited.joa"
+
+[[section.years.files]]
+name = "A03_1993_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18791/A03_1993_bot_clean_edited_hy1.csv"
+
+[[section.years]]
+year = 2005
+
+[[section.years.files]]
+name = "A03_2005_bot_clean3_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18793/A03_2005_bot_clean3_hy1.csv"
+
+[[section.years.files]]
+name = "A03_2005_bot_clean3.joa"
+path = "https://cchdo.ucsd.edu/data/18794/A03_2005_bot_clean3.joa"
+
+[[section.years]]
+year = "WOA"
+
+[[section.years.files]]
+
+[[section]]
+title = "A05/AR01"
+zip_path = "https://cchdo.ucsd.edu/data/19636/A05:AR01.zip"
+
+[[section.years]]
+year = 1992
+
+[[section.years.files]]
+name = "A05_1992_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/16193/A05_1992_bot_clean_sorted.joa"
+
+[[section.years.files]]
+name = "A05_1992_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/16192/A05_1992_bot_clean_sorted_hy1.csv"
+
+[[section.years.files]]
+name = "A05_1992_ctd_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16196/A05_1992_ctd_clean.joa"
+
+[[section.years.files]]
+name = "A05_1992_ctd_clean_ct1.zip"
+path = "https://cchdo.ucsd.edu/data/16195/A05_1992_ctd_clean_ct1.zip"
+
+[[section.years]]
+year = 1998
+
+[[section.years.files]]
+name = "A05_1998_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/16199/A05_1998_bot_clean_sorted.joa"
+
+[[section.years.files]]
+name = "A05_1998_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/16198/A05_1998_bot_clean_sorted_hy1.csv"
+
+[[section.years.files]]
+name = "A05_1998_ctd_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16202/A05_1998_ctd_clean.joa"
+
+[[section.years.files]]
+name = "A05_1998_ctd_clean_ct1.zip"
+path = "https://cchdo.ucsd.edu/data/16201/A05_1998_ctd_clean_ct1.zip"
+
+[[section.years]]
+year = 2004
+
+[[section.years.files]]
+name = "A05_2004_bot_clean2.joa"
+path = "https://cchdo.ucsd.edu/data/16206/A05_2004_bot_clean2_hy1.joa"
+
+[[section.years.files]]
+name = "A05_2004_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/16205/A05_2004_bot_clean2_hy1.csv"
+
+[[section.years.files]]
+name = "A05_2004_ctd_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16207/A05_2004_ctd_clean.joa"
+
+[[section.years.files]]
+name = "A05_2004_ct1.zip"
+path = "https://cchdo.ucsd.edu/data/16605/a05_2004_ct1.zip"
+
+[[section.years]]
+year = 2005
+
+[[section.years.files]]
+name = "A05/AR01_2005_clean_CTD_decimated.joa"
+path = "https://cchdo.ucsd.edu/data/18797/A05_AR01_2005_clean_CTD_decimated.joa"
+
+[[section.years]]
+year = 2010
+
+[[section.years.files]]
+name = "A05_2010_bot_clean3.joa"
+path = "https://cchdo.ucsd.edu/data/18796/A05_2010_bot_clean3.joa"
+
+[[section.years.files]]
+name = "A05_2010_bot_clean3_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18795/A05_2010_bot_clean3_hy1.csv"
+
+[[section.years]]
+year = 2011
+
+[[section.years.files]]
+name = "A05_2011_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/16211/A05_2011_bot_clean_sorted.joa"
+
+[[section.years.files]]
+name = "A05_2011_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/16210/A05_2011_bot_clean_sorted_hy1.csv"
+
+[[section.years]]
+year = 2015
+
+[[section.years.files]]
+name = "A05_2015_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/16213/A05_2015_bot_clean_edited.joa"
+
+[[section.years.files]]
+name = "A05_2015_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/16212/A05_2015_bot_clean_edited_hy1.csv"
+
+[[section.years]]
+year = 2020
+
+[[section.years.files]]
+name = "A05_2020_bot_clean2.joa"
+path = "https://cchdo.ucsd.edu/data/16215/A05_2020_bot_clean2.joa"
+
+[[section.years.files]]
+name = "A05_2020_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/16214/A05_2020_bot_clean2_hy1.csv"
+
+[[section.years]]
+year = "WOA"
+
+[[section.years.files]]
+name = "A05_WOA05_in_mass_units_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18798/A05_WOA05_in_mass_units_hy1.csv"
+
+[[section.years.files]]
+name = "A05_WOA05_in_mass_units.joa"
+path = "https://cchdo.ucsd.edu/data/18799/A05_WOA05_in_mass_units.joa"
+
+[[section]]
+title = "A06/AR03"
+zip_path = "https://cchdo.ucsd.edu/data/19637/A06:AR03.zip"
+
+[[section.years]]
+year = 1993
+
+[[section.years.files]]
+name = "A06_1993_bot_clean3.joa"
+path = "https://cchdo.ucsd.edu/data/18801/A06_1993_bot_clean3.joa"
+
+[[section.years.files]]
+name = "A06_1993_bot_clean3_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18800/A06_1993_bot_clean3_hy1.csv"
+
+[[section.years]]
+year = 2000
+
+[[section.years.files]]
+name = "A06_2000_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18803/A06_2000_bot_clean_edited.joa"
+
+[[section.years.files]]
+name = "A06_2000_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18802/A06_2000_bot_clean_edited_hy1.csv"
+
+[[section.years]]
+year = 2010
+
+[[section.years.files]]
+name = "A06_2010_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18804/A06_2010_bot_clean.joa"
+
+[[section.years.files]]
+name = "A06_2010_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18805/A06_2010_bot_clean2_hy1.csv"
+
+[[section.years]]
+year = "WOA"
+
+[[section.years.files]]
+
+[[section]]
+title = "A07"
+zip_path = "https://cchdo.ucsd.edu/data/19638/A07.zip"
+
+[[section.years]]
+year = 1993
+
+[[section.years.files]]
+name = "A07_1993_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18807/A07_1993_bot_clean_edited.joa"
+
+[[section.years.files]]
+name = "A07_1993_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18806/A07_1993_bot_clean_edited_hy1.csv"
+
+[[section.years]]
+year = "WOA"
+
+[[section.years.files]]
+
+[[section]]
+title = "A08"
+zip_path = "https://cchdo.ucsd.edu/data/19639/A08.zip"
+
+[[section.years]]
+year = 1994
+
+[[section.years.files]]
+name = "A08_1994_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18809/A08_1994_bot_clean_edited.joa"
+
+[[section.years.files]]
+name = "A08_1994_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18808/A08_1994_bot_clean_edited_hy1.csv"
+
+[[section.years]]
+year = "WOA"
+
+[[section.years.files]]
+
+[[section]]
+title = "A09/A09.5"
+zip_path = "https://cchdo.ucsd.edu/data/19640/A09:A09.5.zip"
+
+[[section.years]]
+year = 1991
+
+[[section.years.files]]
+name = "A09_1991_bot_clean3.joa"
+path = "https://cchdo.ucsd.edu/data/18811/A09_1991_bot_clean3.joa"
+
+[[section.years.files]]
+name = "A09_1991_bot_clean3_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18810/A09_1991_bot_clean3_hy1.csv"
+
+[[section.years]]
+year = 2009
+
+[[section.years.files]]
+name = "A09_2009_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18812/A09_2009_bot_clean.joa"
+
+[[section.years.files]]
+name = "A09_2009_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18813/A09_2009_bot_clean2_hy1.csv"
+
+[[section.years]]
+year = 2018
+
+[[section.years.files]]
+name = "A09_2018_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18815/A09_2018_bot_clean_edited.joa"
+
+[[section.years.files]]
+name = "A09_2018_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18814/A09_2018_bot_clean_edited_hy1.csv"
+
+[[section.years]]
+year = "WOA"
+
+[[section.years.files]]
+
+[[section]]
+title = "A10"
+zip_path = "https://cchdo.ucsd.edu/data/19676/A10.zip"
+
+[[section.years]]
+year = 1992
+
+[[section.years.files]]
+name = "A10_1992_bot_clean2_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18817/A10_1992_bot_clean2_sorted_hy1.csv"
+
+[[section.years.files]]
+name = "A10_1992_bot_clean2_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18818/A10_1992_bot_clean2_sorted.joa"
+
+[[section.years.files]]
+name = "A10_1992_ctd_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16255/A10_1992_ctd_clean.joa"
+
+[[section.years.files]]
+name = "A10_1992_ctd_clean_ct1.zip"
+path = "https://cchdo.ucsd.edu/data/16254/A10_1992_ctd_clean_ct1.zip"
+
+[[section.years]]
+year = 2003
+
+[[section.years.files]]
+name = "A10_2003_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16260/A10_2003_bot_clean.joa"
+
+[[section.years.files]]
+name = "A10_2003_bot_clean3_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18819/A10_2003_bot_clean3_hy1.csv"
+
+[[section.years.files]]
+name = "A10_2003_ctd_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16262/A10_2003_ctd_clean.joa"
+
+[[section.years.files]]
+name = "A10_2003_ctd_clean_ct1.zip"
+path = "https://cchdo.ucsd.edu/data/16261/A10_2003_ctd_clean_ct1.zip"
+
+[[section.years]]
+year = 2009
+
+[[section.years.files]]
+name = "A10_2009_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/19659/A10_2009_bot_clean.joa"
+
+[[section.years.files]]
+name = "A10_2009_bot_clean3_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/19660/A10_2009_bot_clean3_hy1.csv"
+
+[[section.years]]
+year = 2011
+
+[[section.years.files]]
+name = "A10_2011_bot_clean4.joa"
+path = "https://cchdo.ucsd.edu/data/19662/A10_2011_bot_clean4.joa"
+
+[[section.years.files]]
+name = "A10_2011_bot_clean4_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/19661/A10_2011_bot_clean4_hy1.csv"
+
+[[section.years]]
+year = 2017
+
+[[section.years.files]]
+name = "A10_2017_bot_clean3_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/19663/A10_2017_bot_clean3_edited_hy1.csv"
+
+[[section.years.files]]
+name = "A10_2017_bot_clean3_edited.joa"
+path = "https://cchdo.ucsd.edu/data/19664/A10_2017_bot_clean3_edited.joa"
+
+[[section.years]]
+year = 2018
+
+[[section.years.files]]
+name = "A10_2018_bot_clean4.joa"
+path = "https://cchdo.ucsd.edu/data/19666/A10_2018_bot_clean4.joa"
+
+[[section.years.files]]
+name = "A10_2018_bot_clean4_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/19665/A10_2018_bot_clean4_hy1.csv"
+
+[[section.years]]
+year = "WOA"
+
+[[section.years.files]]
+name = "A10_WOA05_in_mass_units.joa"
+path = "https://cchdo.ucsd.edu/data/19668/A10_WOA05_in_mass_units.joa"
+
+[[section.years.files]]
+name = "A10_WOA05_in_mass_units_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/19667/A10_WOA05_in_mass_units_hy1.csv"
+
+[[section]]
+title = "A11"
+zip_path = "https://cchdo.ucsd.edu/data/19677/A11.zip"
+
+[[section.years]]
+year = 1992
+
+[[section.years.files]]
+name = "A11_1992_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/19670/A11_1992_bot_clean_edited.joa"
+
+[[section.years.files]]
+name = "A11_1992_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/19669/A11_1992_bot_clean_edited_hy1.csv"
+
+[[section.years]]
+year = "WOA"
+
+[[section.years.files]]
+
+[[section]]
+title = "A12"
+zip_path = "https://cchdo.ucsd.edu/data/19641/A12.zip"
+
+[[section.years]]
+year = 1992
+
+[[section.years.files]]
+name = "A12_1992_bot_clean3_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18821/A12_1992_bot_clean3_edited.joa"
+
+[[section.years.files]]
+name = "A12_1992_bot_clean3_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18820/A12_1992_bot_clean3_edited_hy1.csv"
+
+[[section.years]]
+year = 2005
+
+[[section.years.files]]
+name = "A12_2005_bot_clean_sorted_nobottleO2.joa"
+path = "https://cchdo.ucsd.edu/data/18823/A12_2005_bot_clean_sorted_nobottleO2.joa"
+
+[[section.years.files]]
+name = "A12_2005_bot_clean_sorted_nobottleO2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18822/A12_2005_bot_clean_sorted_nobottleO2_hy1.csv"
+
+[[section.years]]
+year = "2008_a"
+
+[[section.years.files]]
+name = "A12_2008a_north_bot_clean_edited_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18825/A12_2008a_north_bot_clean_edited_sorted.joa"
+
+[[section.years.files]]
+name = "A12_2008a_north_bot_clean_edited_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18824/A12_2008a_north_bot_clean_edited_sorted_hy1.csv"
+
+[[section.years]]
+year = "2008_b"
+
+[[section.years.files]]
+name = "A12_2008b_bot_clean_nobottleO2_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18827/A12_2008b_bot_clean_nobottleO2_edited.joa"
+
+[[section.years.files]]
+name = "A12_2008b_bot_clean_nobottleO2_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18826/A12_2008b_bot_clean_nobottleO2_edited_hy1.csv"
+
+[[section.years]]
+year = 2010
+
+[[section.years.files]]
+name = "A12_2010_bot_clean2_nobottleO2.joa"
+path = "https://cchdo.ucsd.edu/data/18829/A12_2010_bot_clean2_nobottleO2.joa"
+
+[[section.years.files]]
+name = "A12_2010_bot_clean2_nobottleO2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18828/A12_2010_bot_clean2_nobottleO2_hy1.csv"
+
+[[section.years]]
+year = 2014
+
+[[section.years.files]]
+name = "A12_2014_bot_clean3_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18831/A12_2014_bot_clean3_edited.joa"
+
+[[section.years.files]]
+name = "A12_2014_bot_clean3_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18830/A12_2014_bot_clean3_edited_hy1.csv"
+
+[[section.years]]
+year = "WOA"
+
+[[section.years.files]]
+
+[[section]]
+title = "SR04"
+zip_path = "https://cchdo.ucsd.edu/data/19655/SR04.zip"
+
+[[section.years]]
+year = 1989
+
+[[section.years.files]]
+name = "SR04_1989_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18838/SR04_1989_bot_clean_edited.joa"
+
+[[section.years.files]]
+name = "SR04_1989_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18837/SR04_1989_bot_clean_edited_hy1.csv"
+
+[[section.years]]
+year = 1990
+
+[[section.years.files]]
+name = "SR04_1990_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18840/SR04_1990_bot_clean_edited.joa"
+
+[[section.years.files]]
+name = "SR04_1990_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18839/SR04_1990_bot_clean_edited_hy1.csv"
+
+[[section.years]]
+year = 1992
+
+[[section.years.files]]
+name = "SR04_1992_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18841/SR04_1992_bot_clean.joa"
+
+[[section.years.files]]
+name = "SR04_1992_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18842/SR04_1992_bot_clean2_hy1.csv"
+
+[[section.years]]
+year = 1996
+
+[[section.years.files]]
+name = "SR04_1996_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18844/SR04_1996_bot_clean_edited.joa"
+
+[[section.years.files]]
+name = "SR04_1996_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18843/SR04_1996_bot_clean_edited_hy1.csv"
+
+[[section.years]]
+year = 1998
+
+[[section.years.files]]
+name = "SR04_1998_westWeddell_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18845/SR04_1998_westWeddell_bot_clean.joa"
+
+[[section.years.files]]
+name = "SR04_1998_westWeddell_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18846/SR04_1998_westWeddell_bot_clean2_hy1.csv"
+
+[[section.years]]
+year = 2005
+
+[[section.years.files]]
+name = "SR04_2005_bot_clean_edited_nobottleO2.joa"
+path = "https://cchdo.ucsd.edu/data/18848/SR04_2005_bot_clean_edited_nobottleO2.joa"
+
+[[section.years.files]]
+name = "SR04_2005_bot_clean_edited_nobottleO2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18847/SR04_2005_bot_clean_edited_nobottleO2_hy1.csv"
+
+[[section.years]]
+year = 2008
+
+[[section.years.files]]
+name = "SR04_2008_bot_clean_nobottleO2_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18850/SR04_2008_bot_clean_nobottleO2_edited.joa"
+
+[[section.years.files]]
+name = "SR04_2008_bot_clean_nobottleO2_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18849/SR04_2008_bot_clean_nobottleO2_edited_hy1.csv"
+
+[[section.years]]
+year = 2010
+
+[[section.years.files]]
+name = "SR04_2010_nobottleO2_bot_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18852/SR04_2010_nobottleO2_bot_edited.joa"
+
+[[section.years.files]]
+name = "SR04_2008_bot_clean_nobottleO2_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18851/SR04_2010_nobottleO2_bot_edited_hy1.csv"
+
+[[section]]
+title = "A13/A13.5"
+zip_path = "https://cchdo.ucsd.edu/data/19642/A13:A13.5.zip"
+
+[[section.years]]
+year = "1983-1985"
+
+[[section.years.files]]
+name = "A13.5_AJAX_1983_1984_bottle_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18856/A13.5_AJAX_1983_1984_bottle_clean_sorted.joa"
+
+[[section.years.files]]
+name = "A13.5_AJAX_1983_1984_bottle_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18855/A13.5_AJAX_1983_1984_bottle_clean_sorted_hy1.csv"
+
+[[section.years]]
+year = 1995
+
+[[section.years.files]]
+name = "A13_1995_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18833/A13_1995_bot_clean_edited.joa"
+
+[[section.years.files]]
+name = "A13_1995_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18832/A13_1995_bot_clean_edited_hy1.csv"
+
+[[section.years]]
+year = 2010
+
+[[section.years.files]]
+name = "A13.5_2010_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18853/A13.5_2010_bot_clean_sorted_hy1.csv"
+
+[[section.years.files]]
+name = "A13.5_2010_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18854/A13.5_2010_bot_clean_sorted.joa"
+
+[[section.years]]
+year = "WOA"
+
+[[section.years.files]]
+
+[[section]]
+title = "A14"
+zip_path = "https://cchdo.ucsd.edu/data/19643/A14.zip"
+
+[[section.years]]
+year = 1995
+
+[[section.years.files]]
+name = "A14_1995_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18858/A14_1995_bot_clean_sorted.joa"
+
+[[section.years.files]]
+name = "A14_1995_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18857/A14_1995_bot_clean_sorted_hy1.csv"
+
+[[section.years]]
+year = "WOA"
+
+[[section.years.files]]
+
+[[section]]
+title = "A15"
+zip_path = "https://cchdo.ucsd.edu/data/19644/A15.zip"
+
+[[section.years]]
+year = 1994
+
+[[section.years.files]]
+name = "A15_1994_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18835/A15_1994_bot_clean_sorted.joa"
+
+[[section.years.files]]
+name = "A15_1994_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18834/A15_1994_bot_clean_sorted_hy1.csv"
+
+[[section.years]]
+year = "WOA"
+
+[[section.years.files]]
+
+[[section]]
+title = "A16/AR21"
+zip_path = "https://cchdo.ucsd.edu/data/19645/A16:AR21.zip"
+
+[[section.years]]
+year = "1988-1989"
+
+[[section.years.files]]
+name = "A16_1988_1989_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16102/A16_1988_1989_bot_clean.joa"
+
+[[section.years.files]]
+name = "A16_1988_1989_bot_clean_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/16098/A16_1988_1989_bot_clean_hy1.csv"
+
+[[section.years.files]]
+name = "A16_1988_1989_ctd_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16104/A16_1988_1989_ctd_clean.joa"
+
+[[section.years.files]]
+name = "A16_1988_1989_ct1.zip"
+path = "https://cchdo.ucsd.edu/data/16103/A16_1988_1989_ct1.zip"
+
+[[section.years.files]]
+name = "A16_1988_1989_heavydeci_CTD.joa"
+path = "https://cchdo.ucsd.edu/data/16105/A16_1988_1989_heavydeci_CTD.joa"
+
+[[section.years]]
+year = "1991-1993"
+
+[[section.years.files]]
+name = "A16_1991_1993_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/19176/A16_1991_1993_bot_clean.joa"
+
+[[section.years.files]]
+name = "A16_1991_1993_bot_clean_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/19177/A16_1991_1993_bot_clean_hy1.csv"
+
+[[section.years.files]]
+name = "A16_1991_1993_ctd_clean.joa"
+path = "https://cchdo.ucsd.edu/data/19174/A16_1991_1993_ctd_clean.joa"
+
+[[section.years.files]]
+name = "A16_1991_1993_ct1.zip"
+path = "https://cchdo.ucsd.edu/data/19175/A16_1991_1993_ct1.zip"
+
+[[section.years]]
+year = 1998
+
+[[section.years.files]]
+name = "A16N_1998_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18862/A16N_1998_bot_clean.joa"
+
+[[section.years.files]]
+name = "A16N_1998_bot_clean3_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18863/A16N_1998_bot_clean3_hy1.csv"
+
+[[section.years.files]]
+name = "A16N_1998_ctd_clean_ct1.zip"
+path = "https://cchdo.ucsd.edu/data/18864/A16N_1998_ctd_clean_ct1.zip"
+
+[[section.years]]
+year = "2003-2005"
+
+[[section.years.files]]
+name = "A16_2003_2005_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/16239/A16_2003_2005_bot_clean.joa"
+
+[[section.years.files]]
+name = "A16_2003_2005_bot_clean_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/16235/A16_2003_2005_bot_clean_hy1.csv"
+
+[[section.years.files]]
+name = "A16_2003_2005_ct1.zip"
+path = "https://cchdo.ucsd.edu/data/16240/A16_2003_2005_ct1.zip"
+
+[[section.years.files]]
+name = "A16_2003_2005_decimated_clean_CTD.joa"
+path = "https://cchdo.ucsd.edu/data/16241/A16_2003_2005_decimated_clean_CTD.joa"
+
+[[section.years.files]]
+name = "A16_2003_2005_undecimated_CTD.joa"
+path = "https://cchdo.ucsd.edu/data/16242/A16_2003_2005_undecimated_CTD.joa"
+
+[[section.years.files]]
+name = "A16_2003_2005_undecimated_CTD.jos"
+path = "https://cchdo.ucsd.edu/data/19173/A16_2003_2005_undecimated_CTD.jos"
+
+[[section.years.files]]
+name = "READ_ME_re_A16_undecimated_data_file.txt"
+path = "https://cchdo.ucsd.edu/data/19178/READ_ME_re_A16_undecimated_data_file.txt"
+
+[[section.years]]
+year = "2013-2014"
+
+[[section.years.files]]
+name = "A16_2013_2014_bot_clean_w_extra_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/16247/A16_2013_2014_bot_clean_w_extra_sorted.joa"
+
+[[section.years.files]]
+name = "A16_2013_2014_bot_clean_w_extra_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18859/A16_2013_2014_bot_clean_w_extra_sorted_hy1.csv"
+
+[[section.years.files]]
+name = "A16_2013_2014_CTD_clean_w_extra_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/16248/A16_2013_2014_CTD_clean_w_extra_sorted.joa"
+
+[[section.years]]
+year = "WOA"
+
+[[section.years.files]]
+name = "A16_WOA05_in_mass_units.joa"
+path = "https://cchdo.ucsd.edu/data/18861/A16_WOA05_in_mass_units.joa"
+
+[[section.years.files]]
+name = "A16_WOA05_in_mass_units_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18860/A16_WOA05_in_mass_units_hy1.csv"
+
+[[section]]
+title = "A17"
+zip_path = "https://cchdo.ucsd.edu/data/19646/A17.zip"
+
+[[section.years]]
+year = 1994
+
+[[section.years.files]]
+name = "A17_1994_bot_clean3_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18866/A17_1994_bot_clean3_sorted.joa"
+
+[[section.years.files]]
+name = "A17_1994_bot_clean3_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18865/A17_1994_bot_clean3_sorted_hy1.csv"
+
+[[section.years]]
+year = 2001
+
+[[section.years.files]]
+name = "A17_2001_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18868/A17_2001_bot_clean_sorted.joa"
+
+[[section.years.files]]
+name = "A17_2001_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18867/A17_2001_bot_clean_sorted_hy1.csv"
+
+[[section.years]]
+year = 2002
+
+[[section.years.files]]
+name = "A17_2002_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18870/A17_2002_bot_clean_sorted.joa"
+
+[[section.years.files]]
+name = "A17_2002_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18869/A17_2002_bot_clean_sorted_hy1.csv"
+
+[[section.years]]
+year = 2013
+
+[[section.years.files]]
+name = "A17_2013_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18872/A17_2013_bot_clean_sorted.joa"
+
+[[section.years.files]]
+name = "A17_2013_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18871/A17_2013_bot_clean_sorted_hy1.csv"
+
+[[section.years]]
+year = 2019
+
+[[section.years.files]]
+name = "A17_2019_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18874/A17_2019_bot_clean_sorted.joa"
+
+[[section.years.files]]
+name = "A17_2019_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18873/A17_2019_bot_clean_sorted_hy1.csv"
+
+[[section]]
+title = "A20"
+zip_path = "https://cchdo.ucsd.edu/data/19647/A20.zip"
+
+[[section.years]]
+year = 1997
+
+[[section.years.files]]
+name = "A20_1997_bot_clean3_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18876/A20_1997_bot_clean3_sorted.joa"
+
+[[section.years.files]]
+name = "A20_1997_bot_clean3_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18875/A20_1997_bot_clean3_sorted_hy1.csv"
+
+[[section.years]]
+year = 2003
+
+[[section.years.files]]
+name = "A20_2003_bot_clean2_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18877/A20_2003_bot_clean2_sorted_hy1.csv"
+
+[[section.years.files]]
+name = "A20_2003_bot_clean2_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18878/A20_2003_bot_clean2_sorted.joa"
+
+[[section.years]]
+year = 2012
+
+[[section.years.files]]
+name = "A20_2012_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18880/A20_2012_bot_clean_sorted.joa"
+
+[[section.years.files]]
+name = "A20_2012_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18879/A20_2012_bot_clean_sorted_hy1.csv"
+
+[[section]]
+title = "A21"
+zip_path = "https://cchdo.ucsd.edu/data/19648/A21.zip"
+
+[[section.years]]
+year = 1990
+
+[[section.years.files]]
+name = "A21_SR01_1990_bot_clean3_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18885/A21_SR01_1990_bot_clean3_edited.joa"
+
+[[section.years.files]]
+name = "A21_SR01_1990_bot_clean3_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18884/A21_SR01_1990_bot_clean3_edited_hy1.csv"
+
+[[section.years]]
+year = 2010
+
+[[section.years.files]]
+name = "A21_2010_03_b_partial_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18883/A21_2010_03_b_partial_bot_clean2_hy1.csv"
+
+[[section.years.files]]
+name = "A21_2010_03_b_partial_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18882/A21_2010_03_b_partial_bot_clean.joa"
+
+[[section]]
+title = "A22"
+zip_path = "https://cchdo.ucsd.edu/data/19649/A22.zip"
+
+[[section.years]]
+year = 1997
+
+[[section.years.files]]
+name = "A22_1997_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/16225/A22_1997_bot_clean_sorted.joa"
+
+[[section.years.files]]
+name = "A22_1997_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18886/A22_1997_bot_clean_sorted_hy1.csv"
+
+[[section.years]]
+year = 2003
+
+[[section.years.files]]
+name = "A22_2003_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/16229/A22_2003_bot_clean_sorted.joa"
+
+[[section.years.files]]
+name = "A22_2003_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18887/A22_2003_bot_clean_sorted_hy1.csv"
+
+[[section.years]]
+year = 2012
+
+[[section.years.files]]
+name = "A22_2012_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/16233/A22_2012_bot_clean_sorted.joa"
+
+[[section.years.files]]
+name = "A22_2012_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18888/A22_2012_bot_clean_sorted_hy1.csv"
+
+[[section]]
+title = "A23"
+zip_path = "https://cchdo.ucsd.edu/data/19650/A23.zip"
+
+[[section.years]]
+year = 1989
+
+[[section.years.files]]
+name = "A23_1989_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18890/A23_1989_bot_clean_sorted.joa"
+
+[[section.years.files]]
+name = "A23_1989_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18889/A23_1989_bot_clean_sorted_hy1.csv"
+
+[[section.years]]
+year = 1995
+
+[[section.years.files]]
+name = "A23_1995_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18892/A23_1995_bot_clean_sorted.joa"
+
+[[section.years.files]]
+name = "A23_1995_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18891/A23_1995_bot_clean_sorted_hy1.csv"
+
+[[section.years]]
+year = 1999
+
+[[section.years.files]]
+name = "A23_1999_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18894/A23_1999_bot_clean_edited.joa"
+
+[[section.years.files]]
+name = "A23_1999_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18893/A23_1999_bot_clean_edited_hy1.csv"
+
+[[section]]
+title = "A24N"
+zip_path = "https://cchdo.ucsd.edu/data/19651/A24N.zip"
+
+[[section.years]]
+year = 1997
+
+[[section.years.files]]
+name = "A24N_1997_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18896/A24N_1997_bot_clean_sorted.joa"
+
+[[section.years.files]]
+name = "A24N_1997_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18895/A24N_1997_bot_clean_sorted_hy1.csv"
+
+[[section]]
+title = "A24S"
+zip_path = "https://cchdo.ucsd.edu/data/19652/A24S.zip"
+
+[[section.years]]
+year = 1997
+
+[[section.years.files]]
+name = "A24S_1997_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18898/A24S_1997_bot_clean.joa"
+
+[[section.years.files]]
+name = "A24S_1997_bot_clean_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18897/A24S_1997_bot_clean_hy1.csv"
+
+[[section]]
+title = "A25/OVIDE"
+zip_path = "https://cchdo.ucsd.edu/data/19654/A25:OVIDE.zip"
+
+[[section.years]]
+year = 1997
+
+[[section.years.files]]
+name = "A25_1997_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18900/A25_1997_bot_clean_edited.joa"
+
+[[section.years.files]]
+name = "A25_1997_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18899/A25_1997_bot_clean_edited_hy1.csv"
+
+[[section.years]]
+year = 2002
+
+[[section.years.files]]
+name = "A25_OVIDE_2002_bot_clean3.joa"
+path = "https://cchdo.ucsd.edu/data/18902/A25_OVIDE_2002_bot_clean3.joa"
+
+[[section.years.files]]
+name = "A25_OVIDE_2002_bot_clean3_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18901/A25_OVIDE_2002_bot_clean3_hy1.csv"
+
+[[section.years]]
+year = 2004
+
+[[section.years.files]]
+name = "A25_OVIDE_2004_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18904/A25_OVIDE_2004_bot_clean_edited.joa"
+
+[[section.years.files]]
+name = "A25_OVIDE_2004_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18903/A25_OVIDE_2004_bot_clean_edited_hy1.csv"
+
+[[section.years]]
+year = 2006
+
+[[section.years.files]]
+name = "A25_OVIDE_2006_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18906/A25_OVIDE_2006_bot_clean_edited.joa"
+
+[[section.years.files]]
+name = "A25_OVIDE_2006_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18905/A25_OVIDE_2006_bot_clean_edited_hy1.csv"
+
+[[section.years]]
+year = 2008
+
+[[section.years.files]]
+name = "A25_OVIDE_2008_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18907/A25_OVIDE_2008_bot_clean.joa"
+
+[[section.years.files]]
+name = "A25_OVIDE_2008_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18908/A25_OVIDE_2008_bot_clean2_hy1.csv"
+
+[[section.years]]
+year = 2010
+
+[[section.years.files]]
+name = "A25_OVIDE_2010_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/18909/A25_OVIDE_2010_bot_clean.joa"
+
+[[section.years.files]]
+name = "A25_OVIDE_2010_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18910/A25_OVIDE_2010_bot_clean2_hy1.csv"
+
+[[section]]
+title = "AR04"
+zip_path = "https://cchdo.ucsd.edu/data/19653/AR04.zip"
+
+[[section.years]]
+year = 1990
+
+[[section.years.files]]
+name = "AR04W_1990_44W_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18931/AR04W_1990_44W_bot_clean_sorted_hy1.csv"
+
+[[section.years.files]]
+name = "AR04W_1990_44W_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18932/AR04W_1990_44W_bot_clean_sorted.joa"
+
+[[section.years]]
+year = 1991
+
+[[section.years.files]]
+name = "AR04E_1991_35W_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18915/AR04E_1991_35W_bot_clean_edited_hy1.csv"
+
+[[section.years.files]]
+name = "AR04E_1991_35W_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18916/AR04E_1991_35W_bot_clean_edited.joa"
+
+[[section.years.files]]
+name = "AR04W_1991_44W_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18933/AR04W_1991_44W_bot_clean_sorted_hy1.csv"
+
+[[section.years.files]]
+name = "AR04W_1991_44W_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18934/AR04W_1991_44W_bot_clean_sorted.joa"
+
+[[section.years]]
+year = 1992
+
+[[section.years.files]]
+name = "AR04E_1992_35W_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18917/AR04E_1992_35W_bot_clean_edited_hy1.csv"
+
+[[section.years.files]]
+name = "AR04E_1992_35W_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18918/AR04E_1992_35W_bot_clean_edited.joa"
+
+[[section.years.files]]
+name = "AR04W_1992_44W_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18935/AR04W_1992_44W_bot_clean_edited_hy1.csv"
+
+[[section.years.files]]
+name = "AR04W_1992_44W_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18936/AR04W_1992_44W_bot_clean_edited.joa"
+
+[[section.years]]
+year = 1994
+
+[[section.years.files]]
+name = "AR04E_1994_35W_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18919/AR04E_1994_35W_bot_clean_edited_hy1.csv"
+
+[[section.years.files]]
+name = "AR04E_1994_35W_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18920/AR04E_1994_35W_bot_clean_edited.joa"
+
+[[section.years.files]]
+name = "AR04W_1994_44W_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18937/AR04W_1994_44W_bot_clean_sorted_hy1.csv"
+
+[[section.years.files]]
+name = "AR04W_1994_44W_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18938/AR04W_1994_44W_bot_clean_sorted.joa"
+
+[[section.years]]
+year = 1995
+
+[[section.years.files]]
+name = "AR04E_1995_35W_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18921/AR04E_1995_35W_bot_clean_sorted_hy1.csv"
+
+[[section.years.files]]
+name = "AR04E_1995_35W_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18922/AR04E_1995_35W_bot_clean_sorted.joa"
+
+[[section.years.files]]
+name = "AR04W_1995_45to41W_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18939/AR04W_1995_45to41W_bot_clean_edited_hy1.csv"
+
+[[section.years.files]]
+name = "AR04W_1995_45to41W_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18940/AR04W_1995_45to41W_bot_clean_edited.joa"
+
+[[section.years]]
+year = 1996
+
+[[section.years.files]]
+name = "AR04E_1996_35W_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18923/AR04E_1996_35W_bot_clean_edited_hy1.csv"
+
+[[section.years.files]]
+name = "AR04E_1996_35W_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18924/AR04E_1996_35W_bot_clean_edited.joa"
+
+[[section.years.files]]
+name = "AR04W_1996_45to41W_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18942/AR04W_1996_45to41W_bot_clean_edited.joa"
+
+[[section.years.files]]
+name = "AR04W_1996_45to41W_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18941/AR04W_1996_45to41W_bot_clean_edited_hy1.csv"
+
+[[section.years]]
+year = 2000
+
+[[section.years.files]]
+name = "AR04E_2000_35W_long_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18926/AR04E_2000_35W_long_bot_clean_sorted.joa"
+
+[[section.years.files]]
+name = "AR04E_2000_35W_long_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18925/AR04E_2000_35W_long_bot_clean_sorted_hy1.csv"
+
+[[section.years]]
+year = 2002
+
+[[section.years.files]]
+name = "AR04E_2002_40W_bot_clean_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18927/AR04E_2002_40W_bot_clean_sorted_hy1.csv"
+
+[[section.years.files]]
+name = "AR04E_2002_40W_bot_clean_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18928/AR04E_2002_40W_bot_clean_sorted.joa"
+
+[[section.years]]
+year = 2003
+
+[[section.years.files]]
+name = "AR04E_2003_35W_long_bot_clean_nobottleO2_sorted_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18929/AR04E_2003_35W_long_bot_clean_nobottleO2_sorted_hy1.csv"
+
+[[section.years.files]]
+name = "AR04E_2003_35W_long_bot_clean_nobottleO2_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/18930/AR04E_2003_35W_long_bot_clean_nobottleO2_sorted.joa"
+
+[[section.years]]
+year = 2004
+
+[[section.years.files]]
+name = "AR04C_2004_SE_N_ATL_pair_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18911/AR04C_2004_SE_N_ATL_pair_bot_clean_edited_hy1.csv"
+
+[[section.years.files]]
+name = "AR04C_2004_SE_N_ATL_pair_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18912/AR04C_2004_SE_N_ATL_pair_bot_clean_edited.joa"
+
+[[section.years]]
+year = 2005
+
+[[section.years.files]]
+name = "AR04C_2005_15N_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/18913/AR04C_2005_15N_bot_clean_edited_hy1.csv"
+
+[[section.years.files]]
+name = "AR04C_2005_15N_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/18914/AR04C_2005_15N_bot_clean_edited.joa"
+
+[[section]]
+title = "AR18"
+zip_path = "https://cchdo.ucsd.edu/data/21976/AR18.zip"
+
+[[section.years]]
+year = 1997
+
+[[section.years.files]]
+name = "AR18_1997_section_map.pdf"
+path = "https://cchdo.ucsd.edu/data/21800/AR18_1997_section_map.pdf"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_all_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21764/AR18_1997_bot_clean_all_hy1.csv"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_all.joa"
+path = "https://cchdo.ucsd.edu/data/21765/AR18_1997_bot_clean_all.joa"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_DenmarkStrait_1_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21766/AR18_1997_bot_clean_DenmarkStrait_1_hy1.csv"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_DenmarkStrait_1.joa"
+path = "https://cchdo.ucsd.edu/data/21767/AR18_1997_bot_clean_DenmarkStrait_1.joa"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_DenmarkStrait_2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21768/AR18_1997_bot_clean_DenmarkStrait_2_hy1.csv"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_DenmarkStrait_2.joa"
+path = "https://cchdo.ucsd.edu/data/21769/AR18_1997_bot_clean_DenmarkStrait_2.joa"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_DenmarkStrait_3_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21770/AR18_1997_bot_clean_DenmarkStrait_3_hy1.csv"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_DenmarkStrait_3.joa"
+path = "https://cchdo.ucsd.edu/data/21771/AR18_1997_bot_clean_DenmarkStrait_3.joa"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_DenmarkStrait_4_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21772/AR18_1997_bot_clean_DenmarkStrait_4_hy1.csv"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_DenmarkStrait_4.joa"
+path = "https://cchdo.ucsd.edu/data/21773/AR18_1997_bot_clean_DenmarkStrait_4.joa"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_DenmarkStrait_5a_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21774/AR18_1997_bot_clean_DenmarkStrait_5a_hy1.csv"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_DenmarkStrait_5a.joa"
+path = "https://cchdo.ucsd.edu/data/21775/AR18_1997_bot_clean_DenmarkStrait_5a.joa"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_DenmarkStrait_5b_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21776/AR18_1997_bot_clean_DenmarkStrait_5b_hy1.csv"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_DenmarkStrait_5b.joa"
+path = "https://cchdo.ucsd.edu/data/21777/AR18_1997_bot_clean_DenmarkStrait_5b.joa"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_DenmarkStrait_5c_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21778/AR18_1997_bot_clean_DenmarkStrait_5c_hy1.csv"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_DenmarkStrait_5c.joa"
+path = "https://cchdo.ucsd.edu/data/21779/AR18_1997_bot_clean_DenmarkStrait_5c.joa"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_DenmarkStrait_6a_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21780/AR18_1997_bot_clean_DenmarkStrait_6a_hy1.csv"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_DenmarkStrait_6a.joa"
+path = "https://cchdo.ucsd.edu/data/21781/AR18_1997_bot_clean_DenmarkStrait_6a.joa"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_DenmarkStrait_6b_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21782/AR18_1997_bot_clean_DenmarkStrait_6b_hy1.csv"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_DenmarkStrait_6b.joa"
+path = "https://cchdo.ucsd.edu/data/21783/AR18_1997_bot_clean_DenmarkStrait_6b.joa"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_DenmarkStrait_7_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21784/AR18_1997_bot_clean_DenmarkStrait_7_hy1.csv"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_DenmarkStrait_7.joa"
+path = "https://cchdo.ucsd.edu/data/21785/AR18_1997_bot_clean_DenmarkStrait_7.joa"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_DenmarkStrait_8_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21786/AR18_1997_bot_clean_DenmarkStrait_8_hy1.csv"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_DenmarkStrait_8.joa"
+path = "https://cchdo.ucsd.edu/data/21787/AR18_1997_bot_clean_DenmarkStrait_8.joa"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_DenmarkStrait_9_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21788/AR18_1997_bot_clean_DenmarkStrait_9_hy1.csv"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_DenmarkStrait_9.joa"
+path = "https://cchdo.ucsd.edu/data/21789/AR18_1997_bot_clean_DenmarkStrait_9.joa"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_Faeroe_Bank_Channel_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21790/AR18_1997_bot_clean_Faeroe_Bank_Channel_hy1.csv"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_Faeroe_Bank_Channel.joa"
+path = "https://cchdo.ucsd.edu/data/21791/AR18_1997_bot_clean_Faeroe_Bank_Channel.joa"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_Faeroe_Shetland_Channel_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21792/AR18_1997_bot_clean_Faeroe_Shetland_Channel_hy1.csv"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_Faeroe_Shetland_Channel.joa"
+path = "https://cchdo.ucsd.edu/data/21793/AR18_1997_bot_clean_Faeroe_Shetland_Channel.joa"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_NE_Atl_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21794/AR18_1997_bot_clean_NE_Atl_hy1.csv"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_NE_Atl.joa"
+path = "https://cchdo.ucsd.edu/data/21795/AR18_1997_bot_clean_NE_Atl.joa"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_SE_Iceland_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21796/AR18_1997_bot_clean_SE_Iceland_hy1.csv"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_SE_Iceland.joa"
+path = "https://cchdo.ucsd.edu/data/21797/AR18_1997_bot_clean_SE_Iceland.joa"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_SW_Iceland_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21798/AR18_1997_bot_clean_SW_Iceland_hy1.csv"
+
+[[section.years.files]]
+name = "AR18_1997_bot_clean_SW_Iceland.joa"
+path = "https://cchdo.ucsd.edu/data/21799/AR18_1997_bot_clean_SW_Iceland.joa"
+
+[[section]]
+title = "AR24"
+
+[[section.years]]
+year = 1991
+
+[[section.years.files]]
+
+[[section.years]]
+year = 1996
+
+[[section.years.files]]
+
+[[section.years]]
+year = "1997_a"
+
+[[section.years.files]]
+
+[[section.years]]
+year = "1997_b"
+
+[[section.years.files]]
+
+[[section.years]]
+year = "WOA"
+
+[[section.years.files]]
+
+[[section]]
+title = "Mediterranean"
+zip_path = "https://cchdo.ucsd.edu/data/19771/Mediterranean.zip"
+
+[[section.years]]
+year = 1987
+
+[[section.years.files]]
+name = "MedSea_1987_east_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/19760/MedSea_1987_east_bot_clean_edited_hy1.csv"
+
+[[section.years.files]]
+name = "MedSea _1987_east_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/19761/MedSea_1987_east_bot_clean_edited.joa"
+
+[[section.years]]
+year = 1994
+
+[[section.years.files]]
+name = "MedSea_1994_bot_clean_edited_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/19762/MedSea_1994_bot_clean_edited_hy1.csv"
+
+[[section.years.files]]
+name = "MedSea_1994_bot_clean_edited.joa"
+path = "https://cchdo.ucsd.edu/data/19763/MedSea_1994_bot_clean_edited.joa"
+
+[[section.years]]
+year = 1999
+
+[[section.years.files]]
+name = "MedSea_1999_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/19764/MedSea_1999_bot_clean.joa"
+
+[[section.years.files]]
+name = "MEDSEA_1999_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/19765/MedSea_1999_bot_clean2_hy1.csv"
+
+[[section.years]]
+year = 2001
+
+[[section.years.files]]
+name = "MedSea_2001_bot_clean.joa"
+path = "https://cchdo.ucsd.edu/data/19766/MedSea_2001_bot_clean.joa"
+
+[[section.years.files]]
+name = "MedSea_2001_bot_clean2_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/19767/MedSea_2001_bot_clean2_hy1.csv"
+
+[[section.years]]
+year = 2011
+
+[[section.years.files]]
+name = "MedSea_2011_clean_subset_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/19768/MedSea_2011_clean_subset_hy1.csv"
+
+[[section.years.files]]
+name = "MedSea_2011_clean_subset.joa"
+path = "https://cchdo.ucsd.edu/data/19769/MedSea_2011_clean_subset.joa"
+
+[[section.years]]
+year = "WOA"
+
+[[section.years.files]]
+name = "TBD"
+
+[[matched]]
+title = "AR07E_1991_APR"
+zip_path = "https://cchdo.ucsd.edu/data/21979/AR07E_1991_APR.zip"
+
+[[matched.files]]
+name = "AR07E_1991_04_APR_bot_clean_Irminger_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21872/AR07E_1991_04_APR_bot_clean_Irminger_hy1.csv"
+
+[[matched.files]]
+name = "AR07E_1991_04_APR_bot_clean_Irminger.joa"
+path = "https://cchdo.ucsd.edu/data/21873/AR07E_1991_04_APR_bot_clean_Irminger.joa"
+
+[[matched]]
+title = "AR07E_1991_AUG"
+zip_path = "https://cchdo.ucsd.edu/data/21980/AR07E_1991_AUG.zip"
+
+[[matched.files]]
+name = "AR07E_1991_08_AUG_bot_clean_edited_Irminger_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21874/AR07E_1991_08_AUG_bot_clean_edited_Irminger_hy1.csv"
+
+[[matched.files]]
+name = "AR07E_1991_08_AUG_bot_clean_edited_Irminger.joa"
+path = "https://cchdo.ucsd.edu/data/21875/AR07E_1991_08_AUG_bot_clean_edited_Irminger.joa"
+
+[[matched]]
+title = "AR07E_1991_SEP"
+zip_path = "https://cchdo.ucsd.edu/data/21981/AR07E_1991_SEP.zip"
+
+[[matched.files]]
+name = "AR07E_1991_09_SEP_bottle_clean_Irminger_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21876/AR07E_1991_09_SEP_bottle_clean_Irminger_hy1.csv"
+
+[[matched.files]]
+name = "AR07E_1991_09_SEP_bottle_clean_Irminger.joa"
+path = "https://cchdo.ucsd.edu/data/21877/AR07E_1991_09_SEP_bottle_clean_Irminger.joa"
+
+[[matched]]
+title = "AR07E_1992"
+zip_path = "https://cchdo.ucsd.edu/data/21982/AR07E_1992.zip"
+
+[[matched.files]]
+name = "AR07E_1992_bot_clean_Irminger_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21878/AR07E_1992_bot_clean_Irminger_hy1.csv"
+
+[[matched.files]]
+name = "AR07E_1992_bot_clean_Irminger.joa"
+path = "https://cchdo.ucsd.edu/data/21879/AR07E_1992_bot_clean_Irminger.joa"
+
+[[matched]]
+title = "AR07E_1994"
+zip_path = "https://cchdo.ucsd.edu/data/21983/AR07E_1994.zip"
+
+[[matched.files]]
+name = "AR07E_1994_bottle_clean_Irminger_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21880/AR07E_1994_bottle_clean_Irminger_hy1.csv"
+
+[[matched.files]]
+name = "AR07E_1994_bottle_clean_Irminger.joa"
+path = "https://cchdo.ucsd.edu/data/21881/AR07E_1994_bottle_clean_Irminger.joa"
+
+[[matched]]
+title = "AR07E_1997"
+zip_path = "https://cchdo.ucsd.edu/data/21984/AR07E_1997.zip"
+
+[[matched.files]]
+name = "AR07E_1997_08_AUG_b_bot_clean_Irminger_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21882/AR07E_1997_08_AUG_b_bot_clean_Irminger_hy1.csv"
+
+[[matched.files]]
+name = "AR07E_1997_08_AUG_b_bot_clean_Irminger.joa"
+path = "https://cchdo.ucsd.edu/data/21883/AR07E_1997_08_AUG_b_bot_clean_Irminger.joa"
+
+[[matched]]
+title = "AR07E_2000"
+zip_path = "https://cchdo.ucsd.edu/data/21985/AR07E_2000.zip"
+
+[[matched.files]]
+name = "AR07E_2000_bot_clean.Irminger_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21884/AR07E_2000_bot_clean.Irminger_hy1.csv"
+
+[[matched.files]]
+name = "AR07E_2000_bot_clean.Irminger.joa"
+path = "https://cchdo.ucsd.edu/data/21885/AR07E_2000_bot_clean.Irminger.joa"
+
+[[matched]]
+title = "AR07E_2005"
+zip_path = "https://cchdo.ucsd.edu/data/21986/AR07E_2005.zip"
+
+[[matched.files]]
+name = "AR07E_2005_09_SEP_bot_clean_edited_Irminger_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21886/AR07E_2005_09_SEP_bot_clean_edited_Irminger_hy1.csv"
+
+[[matched.files]]
+name = "AR07E_2005_09_SEP_bot_clean_edited_Irminger.joa"
+path = "https://cchdo.ucsd.edu/data/21887/AR07E_2005_09_SEP_bot_clean_edited_Irminger.joa"
+
+[[matched]]
+title = "AR07E_2007"
+zip_path = "https://cchdo.ucsd.edu/data/21987/AR07E_2007.zip"
+
+[[matched.files]]
+name = "AR07E_2007_bot_clean_edited_Irminger_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21888/AR07E_2007_bot_clean_edited_Irminger_hy1.csv"
+
+[[matched.files]]
+name = "AR07E_2007_bot_clean_edited_Irminger.joa"
+path = "https://cchdo.ucsd.edu/data/21889/AR07E_2007_bot_clean_edited_Irminger.joa"
+
+[[matched]]
+title = "AR07E_2012"
+zip_path = "https://cchdo.ucsd.edu/data/21988/AR07E_2012.zip"
+
+[[matched.files]]
+name = "AR07E_2012_06_JUN_b_bot_clean_Irminger_hy1.csv"
+path = "https://cchdo.ucsd.edu/data/21890/AR07E_2012_06_JUN_b_bot_clean_Irminger_hy1.csv"
+
+[[matched.files]]
+name = "AR07E_2012_06_JUN_b_bot_clean_Irminger.joa"
+path = "https://cchdo.ucsd.edu/data/21891/AR07E_2012_06_JUN_b_bot_clean_Irminger.joa"
+
+[[matched]]
+title = "A02_1993"
+
+[[matched.files]]
+name = "A02_1993_06_JUN_bot_clean_edited_east.joa"
+path = "https://cchdo.ucsd.edu/data/21857/A02_1993_06_JUN_bot_clean_edited_east.joa"
+
+[[matched.files]]
+name = "A02_1993_06_JUN_bot_clean_edited_west.joa"
+path = "https://cchdo.ucsd.edu/data/21858/A02_1993_06_JUN_bot_clean_edited_west.joa"
+
+[[matched]]
+title = "A02_1994"
+zip_path = "https://cchdo.ucsd.edu/data/19598/A02_1994.zip"
+
+[[matched.files]]
+name = "A02_1994_bot_clean_east.joa"
+path = "https://cchdo.ucsd.edu/data/19179/A02_1994_bot_clean_east.joa"
+
+[[matched.files]]
+name = "A02_1994_bot_clean_west.joa"
+path = "https://cchdo.ucsd.edu/data/19180/A02_1994_bot_clean_west.joa"
+
+[[matched]]
+title = "A02_1996"
+
+[[matched.files]]
+name = "A02_1996_05_MAY_bot_clean_east.joa"
+path = "https://cchdo.ucsd.edu/data/21806/A02_1996_05_MAY_bot_clean_east.joa"
+
+[[matched.files]]
+name = "A02_1996_05_MAY_bot_clean_west.joa"
+path = "https://cchdo.ucsd.edu/data/21807/A02_1996_05_MAY_bot_clean_west.joa"
+
+[[matched]]
+title = "A02_1997"
+zip_path = "https://cchdo.ucsd.edu/data/19599/A02_1997.zip"
+
+[[matched.files]]
+name = "A02_1997_bot_clean_east.joa"
+path = "https://cchdo.ucsd.edu/data/19181/A02_1997_bot_clean_east.joa"
+
+[[matched.files]]
+name = "A02_1997_bot_clean_west.joa"
+path = "https://cchdo.ucsd.edu/data/19182/A02_1997_bot_clean_west.joa"
+
+[[matched]]
+title = "A02_1998"
+
+[[matched.files]]
+name = "A02_1998_bot_clean_edited.east.joa"
+path = "https://cchdo.ucsd.edu/data/21809/A02_1998_bot_clean_edited.east.joa"
+
+[[matched.files]]
+name = "A02_1998_bot_clean_edited.west.joa"
+path = "https://cchdo.ucsd.edu/data/21811/A02_1998_bot_clean_edited.west.joa"
+
+[[matched]]
+title = "A02_2000"
+
+[[matched.files]]
+name = "A02_2000_bot_clean_west.joa"
+path = "https://cchdo.ucsd.edu/data/21812/A02_2000_bot_clean_west.joa"
+
+[[matched]]
+title = "A02_2001"
+zip_path = "https://cchdo.ucsd.edu/data/19600/A02_2001.zip"
+
+[[matched.files]]
+name = "A02_2001_bot_clean_sorted_east.joa"
+path = "https://cchdo.ucsd.edu/data/19183/A02_2001_bot_clean_sorted_east.joa"
+
+[[matched.files]]
+name = "A02_2001_bot_clean_sorted_west.joa"
+path = "https://cchdo.ucsd.edu/data/19184/A02_2001_bot_clean_sorted_west.joa"
+
+[[matched]]
+title = "A02_2011"
+
+[[matched.files]]
+name = "A02_2011_bot_clean_east.joa"
+path = "https://cchdo.ucsd.edu/data/21813/A02_2011_bot_clean_east.joa"
+
+[[matched.files]]
+name = "A02_2011_bot_clean_west.joa"
+path = "https://cchdo.ucsd.edu/data/21814/A02_2011_bot_clean_west.joa"
+
+[[matched]]
+title = "A02_2017"
+zip_path = "https://cchdo.ucsd.edu/data/19601/A02_2017.zip"
+
+[[matched.files]]
+name = "A02_2017_bot_clean_east.joa"
+path = "https://cchdo.ucsd.edu/data/19185/A02_2017_bot_clean_east.joa"
+
+[[matched.files]]
+name = "A02_2017_bot_clean_west.joa"
+path = "https://cchdo.ucsd.edu/data/19186/A02_2017_bot_clean_west.joa"
+
+[[matched]]
+title = "A03_1993"
+zip_path = "https://cchdo.ucsd.edu/data/19602/A03_1993.zip"
+
+[[matched.files]]
+name = "A03_1993_bot_clean3_east.joa"
+path = "https://cchdo.ucsd.edu/data/19187/A03_1993_bot_clean3_east.joa"
+
+[[matched.files]]
+name = "A03_1993_bot_clean3_west.joa"
+path = "https://cchdo.ucsd.edu/data/19188/A03_1993_bot_clean3_west.joa"
+
+[[matched]]
+title = "A03_2005"
+zip_path = "https://cchdo.ucsd.edu/data/19603/A03_2005.zip"
+
+[[matched.files]]
+name = "A03_2005_bot_clean3_east.joa"
+path = "https://cchdo.ucsd.edu/data/19189/A03_2005_bot_clean3_east.joa"
+
+[[matched.files]]
+name = "A03_2005_bot_clean3_west.joa"
+path = "https://cchdo.ucsd.edu/data/19190/A03_2005_bot_clean3_west.joa"
+
+[[matched]]
+title = "A05_1992"
+zip_path = "https://cchdo.ucsd.edu/data/19604/A05_1992.zip"
+
+[[matched.files]]
+name = "A05_1992_bot_clean_east.joa"
+path = "https://cchdo.ucsd.edu/data/16191/A05_1992_bot_clean_east.joa"
+
+[[matched.files]]
+name = "A05_1992_bot_clean_westof60W.joa"
+path = "https://cchdo.ucsd.edu/data/19192/A05_1992_bot_clean_westof60W.joa"
+
+[[matched.files]]
+name = "A05_1992_bot_clean_westcentral.joa"
+path = "https://cchdo.ucsd.edu/data/19191/A05_1992_bot_clean_westcentral.joa"
+
+[[matched]]
+title = "A05_1998"
+zip_path = "https://cchdo.ucsd.edu/data/19605/A05_1998.zip"
+
+[[matched.files]]
+name = "A05_1998_bot_clean_east.joa"
+path = "https://cchdo.ucsd.edu/data/16197/A05_1998_bot_clean_east.joa"
+
+[[matched.files]]
+name = "A05_1998_bot_clean_westof60W.joa"
+path = "https://cchdo.ucsd.edu/data/19194/A05_1998_bot_clean_westof60W.joa"
+
+[[matched.files]]
+name = "A05_1998_bot_clean_westcentral.joa"
+path = "https://cchdo.ucsd.edu/data/19193/A05_1998_bot_clean_westcentral.joa"
+
+[[matched]]
+title = "A05_2004"
+zip_path = "https://cchdo.ucsd.edu/data/19606/A05_2004.zip"
+
+[[matched.files]]
+name = "A05_2004_bot_clean_east.joa"
+path = "https://cchdo.ucsd.edu/data/16203/A05_2004_bot_clean_east.joa"
+
+[[matched.files]]
+name = "A05_2004_bot_clean_westof60W.joa"
+path = "https://cchdo.ucsd.edu/data/19196/A05_2004_bot_clean_westof60W.joa"
+
+[[matched.files]]
+name = "A05_2004_bot_clean_westcentral.joa"
+path = "https://cchdo.ucsd.edu/data/19195/A05_2004_bot_clean_westcentral.joa"
+
+[[matched]]
+title = "A05_2010"
+zip_path = "https://cchdo.ucsd.edu/data/19607/A05_2010.zip"
+
+[[matched.files]]
+name = "A05_2010_bot_clean3_east.joa"
+path = "https://cchdo.ucsd.edu/data/19197/A05_2010_bot_clean3_east.joa"
+
+[[matched.files]]
+name = "A05_2010_bot_clean3_westof60W.joa"
+path = "https://cchdo.ucsd.edu/data/19199/A05_2010_bot_clean3_westof60W.joa"
+
+[[matched.files]]
+name = "A05_2010_bot_clean3_westcentral.joa"
+path = "https://cchdo.ucsd.edu/data/19198/A05_2010_bot_clean3_westcentral.joa"
+
+[[matched]]
+title = "A05_2011"
+zip_path = "https://cchdo.ucsd.edu/data/19608/A05_2011.zip"
+
+[[matched.files]]
+name = "A05_2011_bot_clean_sorted_east.joa"
+path = "https://cchdo.ucsd.edu/data/19200/A05_2011_bot_clean_sorted_east.joa"
+
+[[matched.files]]
+name = "A05_2011_bot_clean_sorted_westcentral.joa"
+path = "https://cchdo.ucsd.edu/data/19201/A05_2011_bot_clean_sorted_westcentral.joa"
+
+[[matched.files]]
+name = "A05_2011_bot_clean_sorted_westof60W.joa"
+path = "https://cchdo.ucsd.edu/data/19202/A05_2011_bot_clean_sorted_westof60W.joa"
+
+[[matched]]
+title = "A05_2015"
+zip_path = "https://cchdo.ucsd.edu/data/19609/A05_2015.zip"
+
+[[matched.files]]
+name = "A05_2015_bot_clean_edited_east.joa"
+path = "https://cchdo.ucsd.edu/data/19203/A05_2015_bot_clean_edited_east.joa"
+
+[[matched.files]]
+name = "A05_2015_bot_clean_edited_westcentral.joa"
+path = "https://cchdo.ucsd.edu/data/19204/A05_2015_bot_clean_edited_westcentral.joa"
+
+[[matched.files]]
+name = "A05_2015_bot_clean_edited_westof60W.joa"
+path = "https://cchdo.ucsd.edu/data/19205/A05_2015_bot_clean_edited_westof60W.joa"
+
+[[matched]]
+title = "A05_2020"
+zip_path = "https://cchdo.ucsd.edu/data/19610/A05_2020.zip"
+
+[[matched.files]]
+name = "A05_2020_bot_clean2_east.joa"
+path = "https://cchdo.ucsd.edu/data/19206/A05_2020_bot_clean2_east.joa"
+
+[[matched.files]]
+name = "A05_2020_bot_clean2_westof60W.joa"
+path = "https://cchdo.ucsd.edu/data/19208/A05_2020_bot_clean2_westof60W.joa"
+
+[[matched.files]]
+name = "A05_2020_bot_clean2_westcentral.joa"
+path = "https://cchdo.ucsd.edu/data/19207/A05_2020_bot_clean2_westcentral.joa"
+
+[[matched]]
+title = "A06_1993"
+zip_path = "https://cchdo.ucsd.edu/data/19612/A06_1993.zip"
+
+[[matched.files]]
+name = "A06_1993_bot_clean3_fareast.joa"
+path = "https://cchdo.ucsd.edu/data/19210/A06_1993_bot_clean3_fareast.joa"
+
+[[matched.files]]
+name = "A06_1993_bot_clean3_eastcentral.joa"
+path = "https://cchdo.ucsd.edu/data/19209/A06_1993_bot_clean3_eastcentral.joa"
+
+[[matched.files]]
+name = "A06_1993_bot_clean3_west.joa"
+path = "https://cchdo.ucsd.edu/data/19211/A06_1993_bot_clean3_west.joa"
+
+[[matched]]
+title = "A06_2000"
+
+[[matched.files]]
+name = "A06_2000_bot_clean_edited_fareast.joa"
+path = "https://cchdo.ucsd.edu/data/21860/A06_2000_bot_clean_edited_fareast.joa"
+
+[[matched.files]]
+name = "A06_2000_bot_clean_edited_eastcentral.joa"
+path = "https://cchdo.ucsd.edu/data/21859/A06_2000_bot_clean_edited_eastcentral.joa"
+
+[[matched.files]]
+name = "A06_2000_bot_clean_edited_west.joa"
+path = "https://cchdo.ucsd.edu/data/21861/A06_2000_bot_clean_edited_west.joa"
+
+[[matched]]
+title = "A06_2010"
+zip_path = "https://cchdo.ucsd.edu/data/19613/A06_2010.zip"
+
+[[matched.files]]
+name = "A06_2010_bot_clean_fareast.joa"
+path = "https://cchdo.ucsd.edu/data/19213/A06_2010_bot_clean_fareast.joa"
+
+[[matched.files]]
+name = "A06_2010_bot_clean_eastcentral.joa"
+path = "https://cchdo.ucsd.edu/data/19212/A06_2010_bot_clean_eastcentral.joa"
+
+[[matched.files]]
+name = "A06_2010_bot_clean_west.joa"
+path = "https://cchdo.ucsd.edu/data/19214/A06_2010_bot_clean_west.joa"
+
+[[matched]]
+title = "A09_1991"
+zip_path = "https://cchdo.ucsd.edu/data/19678/A09_1991.zip"
+
+[[matched.files]]
+name = "A09_1991_bot_clean3_eastcentral.joa"
+path = "https://cchdo.ucsd.edu/data/19215/A09_1991_bot_clean3_eastcentral.joa"
+
+[[matched.files]]
+name = "A09_1991_bot_clean3_west.joa"
+path = "https://cchdo.ucsd.edu/data/19216/A09_1991_bot_clean3_west.joa"
+
+[[matched]]
+title = "A09.5_2009"
+zip_path = "https://cchdo.ucsd.edu/data/19614/A09.5_2009.zip"
+
+[[matched.files]]
+name = "A09.5_2009_bot_clean2_eastcentral.joa"
+path = "https://cchdo.ucsd.edu/data/19217/A09.5_2009_bot_clean2_eastcentral.joa"
+
+[[matched.files]]
+name = "A09.5_2009_bot_clean2_fareast.joa"
+path = "https://cchdo.ucsd.edu/data/19218/A09.5_2009_bot_clean2_fareast.joa"
+
+[[matched.files]]
+name = "A09.5_2009_bot_clean2_west.joa"
+path = "https://cchdo.ucsd.edu/data/19219/A09.5_2009_bot_clean2_west.joa"
+
+[[matched]]
+title = "A09.5_2018"
+zip_path = "https://cchdo.ucsd.edu/data/19615/A09.5_2018.zip"
+
+[[matched.files]]
+name = "A09.5_2018_bot_clean3_eastcentral.joa"
+path = "https://cchdo.ucsd.edu/data/19220/A09.5_2018_bot_clean3_eastcentral.joa"
+
+[[matched.files]]
+name = "A09.5_2018_bot_clean3_fareast.joa"
+path = "https://cchdo.ucsd.edu/data/19221/A09.5_2018_bot_clean3_fareast.joa"
+
+[[matched.files]]
+name = "A09.5_2018_bot_clean3_west.joa"
+path = "https://cchdo.ucsd.edu/data/19222/A09.5_2018_bot_clean3_west.joa"
+
+[[matched]]
+title = "A10_1992"
+zip_path = "https://cchdo.ucsd.edu/data/19616/A10_1992.zip"
+
+[[matched.files]]
+name = "A10_1992_bot_clean_east_new.joa"
+path = "https://cchdo.ucsd.edu/data/16249/A10_1992_bot_clean_east_new.joa"
+
+[[matched.files]]
+name = "A10_1992_bot_clean_far_east_new.joa"
+path = "https://cchdo.ucsd.edu/data/16250/A10_1992_bot_clean_far_east_new.joa"
+
+[[matched.files]]
+name = "A10_1992_bot_clean_stn_west.joa"
+path = "https://cchdo.ucsd.edu/data/16252/A10_1992_bot_clean_stn_west.joa"
+
+[[matched]]
+title = "A10_2003"
+zip_path = "https://cchdo.ucsd.edu/data/19617/A10_2003.zip"
+
+[[matched.files]]
+name = "A10_2003_bot_clean_east_new.joa"
+path = "https://cchdo.ucsd.edu/data/16256/A10_2003_bot_clean_east_new.joa"
+
+[[matched.files]]
+name = "A10_2003_bot_clean_far_east_new.joa"
+path = "https://cchdo.ucsd.edu/data/16257/A10_2003_bot_clean_far_east_new.joa"
+
+[[matched.files]]
+name = "A10_2003_bot_clean_stn_west.joa"
+path = "https://cchdo.ucsd.edu/data/16259/A10_2003_bot_clean_stn_west.joa"
+
+[[matched]]
+title = "A10_2009"
+
+[[matched.files]]
+name = "A10_2009_bot_clean_fareast.joa"
+path = "https://cchdo.ucsd.edu/data/21863/A10_2009_bot_clean_fareast.joa"
+
+[[matched.files]]
+name = "A10_2009_bot_clean_eastcentral.joa"
+path = "https://cchdo.ucsd.edu/data/21862/A10_2009_bot_clean_eastcentral.joa"
+
+[[matched.files]]
+name = "A10_2009_bot_clean_west.joa"
+path = "https://cchdo.ucsd.edu/data/21864/A10_2009_bot_clean_west.joa"
+
+[[matched]]
+title = "A10_2011"
+zip_path = "https://cchdo.ucsd.edu/data/19618/A10_2011.zip"
+
+[[matched.files]]
+name = "A10_2011_bot_clean_east_new.joa"
+path = "https://cchdo.ucsd.edu/data/16263/A10_2011_bot_clean_east_new.joa"
+
+[[matched.files]]
+name = "A10_2011_bot_clean_Far_east_new.joa"
+path = "https://cchdo.ucsd.edu/data/16264/A10_2011_bot_clean_Far_east_new.joa"
+
+[[matched.files]]
+name = "A10_2011_bot_clean_stn_west.joa"
+path = "https://cchdo.ucsd.edu/data/16266/A10_2011_bot_clean_stn_west.joa"
+
+[[matched]]
+title = "A10_2017"
+
+[[matched.files]]
+name = "A10_2017_bot_clean3_edited_fareast.joa"
+path = "https://cchdo.ucsd.edu/data/21816/A10_2017_bot_clean3_edited_fareast.joa"
+
+[[matched.files]]
+name = "A10_2017_bot_clean3_edited_east.joa"
+path = "https://cchdo.ucsd.edu/data/21815/A10_2017_bot_clean3_edited_east.joa"
+
+[[matched.files]]
+name = "A10_2017_bot_clean3_edited_west.joa"
+path = "https://cchdo.ucsd.edu/data/21817/A10_2017_bot_clean3_edited_west.joa"
+
+[[matched]]
+title = "A10_2018"
+zip_path = "https://cchdo.ucsd.edu/data/19619/A10_2018.zip"
+
+[[matched.files]]
+name = "A10_2018_bot_clean4_east.joa"
+path = "https://cchdo.ucsd.edu/data/19223/A10_2018_bot_clean4_east.joa"
+
+[[matched.files]]
+name = "A10_2018_bot_clean4_fareast.joa"
+path = "https://cchdo.ucsd.edu/data/19224/A10_2018_bot_clean4_fareast.joa"
+
+[[matched.files]]
+name = "A10_2018_bot_clean4_west.joa"
+path = "https://cchdo.ucsd.edu/data/19225/A10_2018_bot_clean4_west.joa"
+
+[[matched]]
+title = "A12_1992"
+
+[[matched.files]]
+name = "A12_1992_south_to55S_bot_clean3_edited.joa"
+path = "https://cchdo.ucsd.edu/data/21868/A12_1992_south_to55S_bot_clean3_edited.joa"
+
+[[matched]]
+title = "A12_2008"
+
+[[matched.files]]
+name = "A12_2008a_northof55S_bot_clean_edited_sorted.joa"
+path = "https://cchdo.ucsd.edu/data/21869/A12_2008a_northof55S_bot_clean_edited_sorted.joa"
+
+[[matched]]
+title = "A12_2014"
+
+[[matched.files]]
+name = "A12_2014_northof55S_bot_clean3_edited.joa"
+path = "https://cchdo.ucsd.edu/data/21870/A12_2014_northof55S_bot_clean3_edited.joa"
+
+[[matched.files]]
+name = "A12_2014_south_to55S_bot_clean3_edited.joa"
+path = "https://cchdo.ucsd.edu/data/21871/A12_2014_south_to55S_bot_clean3_edited.joa"
+
+[[matched]]
+title = "A13_1995"
+
+[[matched.files]]
+name = "A13_1995_bot_clean_edited_Nof2S.joa"
+path = "https://cchdo.ucsd.edu/data/21867/A13_1995_bot_clean_edited_Nof2S.joa"
+
+[[matched.files]]
+name = "A13_1995_bot_clean_edited_22.5Sto2.5S.joa"
+path = "https://cchdo.ucsd.edu/data/21865/A13_1995_bot_clean_edited_22.5Sto2.5S.joa"
+
+[[matched.files]]
+name = "A13_1995_bot_clean_edited_40Sto22.5S.joa"
+path = "https://cchdo.ucsd.edu/data/21866/A13_1995_bot_clean_edited_40Sto22.5S.joa"
+
+[[matched]]
+title = "A13.5_AJAX_1983_1984"
+zip_path = "https://cchdo.ucsd.edu/data/19621/A13.5_AJAX_1983_1984.zip"
+
+[[matched.files]]
+name = "A13.5_AJAX_1983_1984_bottle_clean_south.joa"
+path = "https://cchdo.ucsd.edu/data/19231/A13.5_AJAX_1983_1984_bottle_clean_south.joa"
+
+[[matched.files]]
+name = "A13.5_AJAX_1983_1984_bottle_clean_30Sto7S.joa"
+path = "https://cchdo.ucsd.edu/data/19229/A13.5_AJAX_1983_1984_bottle_clean_30Sto7S.joa"
+
+[[matched.files]]
+name = "A13.5_AJAX_1983_1984_bottle_clean_northof7S.joa"
+path = "https://cchdo.ucsd.edu/data/19230/A13.5_AJAX_1983_1984_bottle_clean_northof7S.joa"
+
+[[matched]]
+title = "A13.5_2010"
+zip_path = "https://cchdo.ucsd.edu/data/19620/A13.5_2010.zip"
+
+[[matched.files]]
+name = "A13.5_2010_bot_clean_south.joa"
+path = "https://cchdo.ucsd.edu/data/19228/A13.5_2010_bot_clean_south.joa"
+
+[[matched.files]]
+name = "A13.5_2010_bot_clean_30Sto7S.joa"
+path = "https://cchdo.ucsd.edu/data/19226/A13.5_2010_bot_clean_30Sto7S.joa"
+
+[[matched.files]]
+name = "A13.5_2010_bot_clean_northof7S.joa"
+path = "https://cchdo.ucsd.edu/data/19227/A13.5_2010_bot_clean_northof7S.joa"
+
+[[matched]]
+title = "A16_1988_1989"
+zip_path = "https://cchdo.ucsd.edu/data/19622/A16_1988_1989.zip"
+
+[[matched.files]]
+name = "A16_1988_1989_bot_clean_south.joa"
+path = "https://cchdo.ucsd.edu/data/16100/A16_1988_1989_bot_clean_south.joa"
+
+[[matched.files]]
+name = "A16_1988_1989_bot_clean_southcentral.joa"
+path = "https://cchdo.ucsd.edu/data/16101/A16_1988_1989_bot_clean_southcentral.joa"
+
+[[matched.files]]
+name = "A16_1988_1989_bot_clean_1Sto18N.joa"
+path = "https://cchdo.ucsd.edu/data/19232/A16_1988_1989_bot_clean_1Sto18N.joa"
+
+[[matched.files]]
+name = "A16_1988_1989_bot_clean_18Nto42N.joa"
+path = "https://cchdo.ucsd.edu/data/19233/A16_1988_1989_bot_clean_18Nto42N.joa"
+
+[[matched.files]]
+name = "A16_1988_1989_bot_clean_42Nto64N.joa"
+path = "https://cchdo.ucsd.edu/data/19234/A16_1988_1989_bot_clean_42Nto64N.joa"
+
+[[matched]]
+title = "A16_1998"
+
+[[matched.files]]
+name = "A16N_1998_bot_clean_42Nto64N.joa"
+path = "https://cchdo.ucsd.edu/data/21819/A16N_1998_bot_clean_42Nto64N.joa"
+
+[[matched.files]]
+name = "A16N_1998_bot_clean_20Nto42N.joa"
+path = "https://cchdo.ucsd.edu/data/21818/A16N_1998_bot_clean_20Nto42N.joa"
+
+[[matched]]
+title = "A16_2003_2005"
+zip_path = "https://cchdo.ucsd.edu/data/19623/A16_2003_2005.zip"
+
+[[matched.files]]
+name = "A16_2003_2005_bot_clean_farsouth.joa"
+path = "https://cchdo.ucsd.edu/data/16234/A16_2003_2005_bot_clean_farsouth.joa"
+
+[[matched.files]]
+name = "A16_2003_2005_bot_clean_south.joa"
+path = "https://cchdo.ucsd.edu/data/16237/A16_2003_2005_bot_clean_south.joa"
+
+[[matched.files]]
+name = "A16_2003_2005_bot_clean_southcentral.joa"
+path = "https://cchdo.ucsd.edu/data/16238/A16_2003_2005_bot_clean_southcentral.joa"
+
+[[matched.files]]
+name = "A16_2003_2005_bot_clean_1Sto18N.joa"
+path = "https://cchdo.ucsd.edu/data/19235/A16_2003_2005_bot_clean_1Sto18N.joa"
+
+[[matched.files]]
+name = "A16_2003_2005_bot_clean_18Nto42N.joa"
+path = "https://cchdo.ucsd.edu/data/19236/A16_2003_2005_bot_clean_18Nto42N.joa"
+
+[[matched.files]]
+name = "A16_2003_2005_bot_clean_42Nto64N.joa"
+path = "https://cchdo.ucsd.edu/data/19237/A16_2003_2005_bot_clean_42Nto64N.joa"
+
+[[matched]]
+title = "A16_2013_2014"
+zip_path = "https://cchdo.ucsd.edu/data/19624/A16_2013_2014.zip"
+
+[[matched.files]]
+name = "A16_2013_2014_bot_clean_farsouth.joa"
+path = "https://cchdo.ucsd.edu/data/16243/A16_2013_2014_bot_clean_farsouth.joa"
+
+[[matched.files]]
+name = "A16_2013_2014_bot_clean_south.joa"
+path = "https://cchdo.ucsd.edu/data/16245/A16_2013_2014_bot_clean_south.joa"
+
+[[matched.files]]
+name = "A16_2013_2014_bot_clean_southcentral.joa"
+path = "https://cchdo.ucsd.edu/data/16246/A16_2013_2014_bot_clean_southcentral.joa"
+
+[[matched.files]]
+name = "A16_2013_2014_bot_clean_1Sto18N.joa"
+path = "https://cchdo.ucsd.edu/data/19238/A16_2013_2014_bot_clean_1Sto18N.joa"
+
+[[matched.files]]
+name = "A16_2013_2014_bot_clean_18Nto42N.joa"
+path = "https://cchdo.ucsd.edu/data/19239/A16_2013_2014_bot_clean_18Nto42N.joa"
+
+[[matched.files]]
+name = "A16_2013_2014_bot_clean_42Nto64N.joa"
+path = "https://cchdo.ucsd.edu/data/19240/A16_2013_2014_bot_clean_42Nto64N.joa"
+
+[[matched]]
+title = "A20_1997"
+zip_path = "https://cchdo.ucsd.edu/data/19625/A20_1997.zip"
+
+[[matched.files]]
+name = "A20_1997_bot_clean_sorted_northof20N.joa"
+path = "https://cchdo.ucsd.edu/data/19241/A20_1997_bot_clean_sorted_northof20N.joa"
+
+[[matched.files]]
+name = "A20_1997_bot_clean_sorted_southof20N.joa"
+path = "https://cchdo.ucsd.edu/data/19242/A20_1997_bot_clean_sorted_southof20N.joa"
+
+[[matched]]
+title = "A20_2003"
+zip_path = "https://cchdo.ucsd.edu/data/19626/A20_2003.zip"
+
+[[matched.files]]
+name = "A20_2003_bot_clean_sorted_northof20N.joa"
+path = "https://cchdo.ucsd.edu/data/19243/A20_2003_bot_clean_sorted_northof20N.joa"
+
+[[matched.files]]
+name = "A20_2003_bot_clean_sorted_southof20N.joa"
+path = "https://cchdo.ucsd.edu/data/19244/A20_2003_bot_clean_sorted_southof20N.joa"
+
+[[matched]]
+title = "A20_2012"
+zip_path = "https://cchdo.ucsd.edu/data/19627/A20_2012.zip"
+
+[[matched.files]]
+name = "A20_2012_bot_clean_northof20N.joa"
+path = "https://cchdo.ucsd.edu/data/19245/A20_2012_bot_clean_northof20N.joa"
+
+[[matched.files]]
+name = "A20_2012_bot_clean_southof20N.joa"
+path = "https://cchdo.ucsd.edu/data/19246/A20_2012_bot_clean_southof20N.joa"
+
+[[matched]]
+title = "A20_2021"
+zip_path = "https://cchdo.ucsd.edu/data/21977/A20_2021.zip"
+
+[[matched.files]]
+name = "A20_2021_bot_clean_edited_northof20N.joa"
+path = "https://cchdo.ucsd.edu/data/21820/A20_2021_bot_clean_edited_northof20N.joa"
+
+[[matched.files]]
+name = "A20_2021_bot_clean_edited_southof20N.joa"
+path = "https://cchdo.ucsd.edu/data/21821/A20_2021_bot_clean_edited_southof20N.joa"
+
+[[matched]]
+title = "A22_1997"
+zip_path = "https://cchdo.ucsd.edu/data/19628/A22_1997.zip"
+
+[[matched.files]]
+name = "A22_1997_bot_clean_sorted_south.joa"
+path = "https://cchdo.ucsd.edu/data/16224/A22_1997_bot_clean_sorted_south.joa"
+
+[[matched.files]]
+name = "A22_1997_bot_clean_sorted_north.joa"
+path = "https://cchdo.ucsd.edu/data/16223/A22_1997_bot_clean_sorted_north.joa"
+
+[[matched]]
+title = "A22_2003"
+zip_path = "https://cchdo.ucsd.edu/data/19629/A22_2003.zip"
+
+[[matched.files]]
+name = "A22_2003_bot_clean_sorted_south.joa"
+path = "https://cchdo.ucsd.edu/data/16228/A22_2003_bot_clean_sorted_south.joa"
+
+[[matched.files]]
+name = "A22_2003_bot_clean_sorted_north.joa"
+path = "https://cchdo.ucsd.edu/data/16227/A22_2003_bot_clean_sorted_north.joa"
+
+[[matched]]
+title = "A22_2012"
+zip_path = "https://cchdo.ucsd.edu/data/19630/A22_2012.zip"
+
+[[matched.files]]
+name = "A22_2012_bot_clean_sorted_south.joa"
+path = "https://cchdo.ucsd.edu/data/16232/A22_2012_bot_clean_sorted_south.joa"
+
+[[matched.files]]
+name = "A22_2012_bot_clean_sorted_north.joa"
+path = "https://cchdo.ucsd.edu/data/16231/A22_2012_bot_clean_sorted_north.joa"
+
+[[matched]]
+title = "A22_2021"
+zip_path = "https://cchdo.ucsd.edu/data/21978/A22_2021.zip"
+
+[[matched.files]]
+name = "A20_2021_bot_clean_edited_northof20N.joa"
+path = "https://cchdo.ucsd.edu/data/21820/A20_2021_bot_clean_edited_northof20N.joa"
+
+[[matched.files]]
+name = "A20_2021_bot_clean_edited_southof20N.joa"
+path = "https://cchdo.ucsd.edu/data/21821/A20_2021_bot_clean_edited_southof20N.joa"
+
+[[matched]]
+title = "A25_1997"
+
+[[matched.files]]
+name = "A25_1997_bot_clean_edited_SE.joa"
+path = "https://cchdo.ucsd.edu/data/21825/A25_1997_bot_clean_edited_SE.joa"
+
+[[matched.files]]
+name = "A25_1997_bot_clean_edited_central.joa"
+path = "https://cchdo.ucsd.edu/data/21995/A25_1997_bot_clean_edited_central.joa"
+
+[[matched.files]]
+name = "A25_1997_bot_clean_edited_NW.joa"
+path = "https://cchdo.ucsd.edu/data/21824/A25_1997_bot_clean_edited_NW.joa"
+
+[[matched]]
+title = "A25_OVIDE_2002"
+
+[[matched.files]]
+name = "A25_OVIDE_2002_bot_clean3_SE.joa"
+path = "https://cchdo.ucsd.edu/data/21828/A25_OVIDE_2002_bot_clean3_SE.joa"
+
+[[matched.files]]
+name = "A25_OVIDE_2002_bot_clean3_central.joa"
+path = "https://cchdo.ucsd.edu/data/21826/A25_OVIDE_2002_bot_clean3_central.joa"
+
+[[matched.files]]
+name = "A25_OVIDE_2002_bot_clean3_NW.joa"
+path = "https://cchdo.ucsd.edu/data/21827/A25_OVIDE_2002_bot_clean3_NW.joa"
+
+[[matched]]
+title = "A25_OVIDE_2004"
+
+[[matched.files]]
+name = "A25_OVIDE_2004_bot_clean_edited_SE.joa"
+path = "https://cchdo.ucsd.edu/data/21831/A25_OVIDE_2004_bot_clean_edited_SE.joa"
+
+[[matched.files]]
+name = "A25_OVIDE_2004_bot_clean_edited_central.joa"
+path = "https://cchdo.ucsd.edu/data/21829/A25_OVIDE_2004_bot_clean_edited_central.joa"
+
+[[matched.files]]
+name = "A25_OVIDE_2004_bot_clean_edited_NW.joa"
+path = "https://cchdo.ucsd.edu/data/21830/A25_OVIDE_2004_bot_clean_edited_NW.joa"
+
+[[matched]]
+title = "A25_OVIDE_2006"
+
+[[matched.files]]
+name = "A25_OVIDE_2006_bot_clean_edited_SE.joa"
+path = "https://cchdo.ucsd.edu/data/21834/A25_OVIDE_2006_bot_clean_edited_SE.joa"
+
+[[matched.files]]
+name = "A25_OVIDE_2006_bot_clean_edited_central.joa"
+path = "https://cchdo.ucsd.edu/data/21832/A25_OVIDE_2006_bot_clean_edited_central.joa"
+
+[[matched.files]]
+name = "A25_OVIDE_2006_bot_clean_edited_NW.joa"
+path = "https://cchdo.ucsd.edu/data/21833/A25_OVIDE_2006_bot_clean_edited_NW.joa"
+
+[[matched]]
+title = "A25_OVIDE_2008"
+
+[[matched.files]]
+name = "A25_OVIDE_2008_bot_clean_SE.joa"
+path = "https://cchdo.ucsd.edu/data/21837/A25_OVIDE_2008_bot_clean_SE.joa"
+
+[[matched.files]]
+name = "A25_OVIDE_2008_bot_clean_central.joa"
+path = "https://cchdo.ucsd.edu/data/21835/A25_OVIDE_2008_bot_clean_central.joa"
+
+[[matched.files]]
+name = "A25_OVIDE_2008_bot_clean_NW.joa"
+path = "https://cchdo.ucsd.edu/data/21836/A25_OVIDE_2008_bot_clean_NW.joa"
+
+[[matched]]
+title = "A25_OVIDE_2010"
+
+[[matched.files]]
+name = "A25_OVIDE_2010_bot_clean_SE.joa"
+path = "https://cchdo.ucsd.edu/data/21856/A25_OVIDE_2010_bot_clean_SE.joa"
+
+[[matched.files]]
+name = "A25_OVIDE_2010_bot_clean_central.joa"
+path = "https://cchdo.ucsd.edu/data/21854/A25_OVIDE_2010_bot_clean_central.joa"
+
+[[matched.files]]
+name = "A25_OVIDE_2010_bot_clean_NW.joa"
+path = "https://cchdo.ucsd.edu/data/21855/A25_OVIDE_2010_bot_clean_NW.joa"
+
+[[matched]]
+title = "A25_OVIDE_2012"
+
+[[matched.files]]
+name = "A25_OVIDE_2012_bot_clean_sorted_SE.joa"
+path = "https://cchdo.ucsd.edu/data/21841/A25_OVIDE_2012_bot_clean_sorted_SE.joa"
+
+[[matched.files]]
+name = "A25_OVIDE_2012_bot_clean_sorted_central.joa"
+path = "https://cchdo.ucsd.edu/data/21838/A25_OVIDE_2012_bot_clean_sorted_central.joa"
+
+[[matched.files]]
+name = "A25_OVIDE_2012_bot_clean_sorted_NW.joa"
+path = "https://cchdo.ucsd.edu/data/21840/A25_OVIDE_2012_bot_clean_sorted_NW.joa"
+
+[[matched]]
+title = "A25_OVIDE_2014"
+
+[[matched.files]]
+name = "A25_OVIDE_2014_bot_clean_edited_SE.joa"
+path = "https://cchdo.ucsd.edu/data/21846/A25_OVIDE_2014_bot_clean_edited_SE.joa"
+
+[[matched.files]]
+name = "A25_OVIDE_2014_bot_clean_edited_central.joa"
+path = "https://cchdo.ucsd.edu/data/21843/A25_OVIDE_2014_bot_clean_edited_central.joa"
+
+[[matched.files]]
+name = "A25_OVIDE_2014_bot_clean_edited_NW.joa"
+path = "https://cchdo.ucsd.edu/data/21845/A25_OVIDE_2014_bot_clean_edited_NW.joa"
+
+[[matched]]
+title = "A25_OVIDE_2016"
+
+[[matched.files]]
+name = "A25_OVIDE_2016_bot_clean_edited_SE.joa"
+path = "https://cchdo.ucsd.edu/data/21852/A25_OVIDE_2016_bot_clean_edited_SE.joa"
+
+[[matched.files]]
+name = "A25_OVIDE_2016_bot_clean_edited_central.joa"
+path = "https://cchdo.ucsd.edu/data/21849/A25_OVIDE_2016_bot_clean_edited_central.joa"
+
+[[matched.files]]
+name = "A25_OVIDE_2016_bot_clean_edited_NW.joa"
+path = "https://cchdo.ucsd.edu/data/21851/A25_OVIDE_2016_bot_clean_edited_NW.joa"
+
+[[yeardropdown]]
+year = 1957
+
+[[yeardropdown]]
+year = 1981
+
+[[yeardropdown]]
+year = 1982
+
+[[yeardropdown]]
+year = 1983
+
+[[yeardropdown]]
+year = 1985
+
+[[yeardropdown]]
+year = 1986
+
+[[yeardropdown]]
+year = 1988
+
+[[yeardropdown]]
+year = 1989
+
+[[yeardropdown]]
+year = 1990
+
+[[yeardropdown]]
+year = 1991
+
+[[yeardropdown]]
+year = 1992
+
+[[yeardropdown]]
+year = 1993
+
+[[yeardropdown]]
+year = 1994
+
+[[yeardropdown]]
+year = 1995
+
+[[yeardropdown]]
+year = 1996
+
+[[yeardropdown]]
+year = 1997
+
+[[yeardropdown]]
+year = 1998
+
+[[yeardropdown]]
+year = 1999
+
+[[yeardropdown]]
+year = 2000
+
+[[yeardropdown]]
+year = 2001
+
+[[yeardropdown]]
+year = 2002
+
+[[yeardropdown]]
+year = 2003
+
+[[yeardropdown]]
+year = 2004
+
+[[yeardropdown]]
+year = 2005
+
+[[yeardropdown]]
+year = 2006
+
+[[yeardropdown]]
+year = 2007
+
+[[yeardropdown]]
+year = 2008
+
+[[yeardropdown]]
+year = 2009
+
+[[yeardropdown]]
+year = 2010
+
+[[yeardropdown]]
+year = 2011
+
+[[yeardropdown]]
+year = 2012
+
+[[yeardropdown]]
+year = 2013
+
+[[yeardropdown]]
+year = 2014
+
+[[yeardropdown]]
+year = 2015
+
+[[yeardropdown]]
+year = 2016
+
+[[yeardropdown]]
+year = 2017
+
+[[yeardropdown]]
+year = 2018
+
+[[yeardropdown]]
+year = 2019
+
+[[yeardropdown]]
+year = 2020
+
+[[yeardropdown]]
+year = "WOA"
