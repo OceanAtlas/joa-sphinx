@@ -28,9 +28,9 @@ def write_section_data(dp:Path, out_path:Path):
         for section in data["section"]:
             if "years" not in section:
                 continue
-            f.write(f"## {section['title']}\n")
+            f.write(f"### {section['title']}\n")
             for year in section["years"]:
-                f.write(f"### {year['year']}\n")
+                f.write(f"#### {year['year']}\n")
                 for file in year["files"]:
                     name = file.get("name", "No Files")
                     path = file.get('path')
@@ -42,3 +42,6 @@ def write_section_data(dp:Path, out_path:Path):
 
 write_section_data(root_dir / "_data" / "atlanticdata.toml", root_dir / "_includes" / "_atlantic")
 write_section_data(root_dir / "_data" / "pacificdata.toml", root_dir / "_includes" / "_pacific")
+write_section_data(root_dir / "_data" / "indiandata.toml", root_dir / "_includes" / "_indian")
+write_section_data(root_dir / "_data" / "arcticdata.toml", root_dir / "_includes" / "_arctic")
+write_section_data(root_dir / "_data" / "southerndata.toml", root_dir / "_includes" / "_southern")
