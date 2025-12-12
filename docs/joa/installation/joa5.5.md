@@ -28,18 +28,6 @@ We presently support JOA 5.5 installation on macOS 10.15 and higher. It may work
 :::
 ::::
 
-### macOS 10.12-10.14 Downloads
-::::{grid} 2
-:::{grid-item-card} {octicon}`download` Download Standard JOA 5.5
-:link: https://cchdo.ucsd.edu/data/22049/Java%20OceanAtlas.dmg
-116.8 MB
-:::
-:::{grid-item-card} {octicon}`download` Download Pro JOA 5.5.1
-:link: https://cchdo.ucsd.edu/data/22046/Java%20OceanAtlas.dmg
-114.8 MB
-:::
-::::
-
 ## Windows
 JOA 5.5 was tested on Windows 10 (1903). The installer .msi file should run on basically every recent-ish Windows OS, both 32 and 64-bit versions: Vista, Server, 7, 8, 8.1, 10, and 11. Java 8 (the embedded JRE) is compatible with all of those except Vista and some old versions of Server.
 
