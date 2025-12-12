@@ -6,7 +6,7 @@
 A virtual research cruise to the far southeast Indian Ocean aboard SIO's R/V Roger Revelle: tour the ship, watch videos of activities at sea and interviews with students, crew, techs, officers, and scientists, read the weekly reports, read the NSF proposal that funded the cruise, examine some aspects of the data, etc.
 
 ## Projects & Methods
-[Porject & Methods Page](./projects/index.md)
+[Project & Methods Page](./projects/index.md)
 
 ## Descriptive Physical Oceanography
 
