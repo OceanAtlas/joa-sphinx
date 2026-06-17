@@ -1,4 +1,4 @@
-# Best CTD/Hydrographic Data
+# Quality Edited Vertical Ocean Section and Gridded Hydrographic Data
 
 ## About the 'Best CTD/Hydrographic Data' collection
 The collection 'Best CTD/Hydrographic Data' contains the finest-quality vertical section data yet obtained from the World Ocean, sourced from WOCE, CLIVAR, GO-SHIP and other programs of similar focus and quality. We have curated and ‘cleaned’ the data (see below), adding value by organizing sections, combining and deleting casts, and correcting errors. No data values are changed.
